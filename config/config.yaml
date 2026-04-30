@@ -1,0 +1,94 @@
+schedule:
+  timezone: "Asia/Seoul"
+  run_time: "11:00"
+
+date:
+  mode: "relative"
+  start_offset_days: -1
+  end_offset_days: 0
+  format: "%Y.%m.%d"
+
+deduplication:
+  retention_days: 7
+  key: "link"
+
+crawler:
+  max_scroll_attempts: 30
+  scroll_wait_ms: 2000
+
+mail:
+  subject_prefix: "[뉴스 모니터링]"
+  sender_name: "뉴스 자동 발송봇"
+  include_empty_jobs: true
+
+naver_news:
+  keywords:
+    - "공무원"
+    - "교도소 출소"
+  limit: 30
+
+  common_params:
+    ssc: "tab.news.all"
+    sm: "tab_opt"
+    sort: "0"
+    photo: "0"
+    field: "0"
+    pd: "4"
+    docid: ""
+    related: "0"
+    mynews: "1"
+    office_type: "2"
+    nso: "so:r,p:1d"
+    is_sug_officeid: "0"
+    office_category: "0"
+    service_area: "0"
+
+  sources:
+    - name: "뉴시스"
+      press: "뉴시스"
+      office_section_code: "2"
+      news_office_checked: "1003"
+
+    - name: "법률저널"
+      press: "법률저널"
+      office_section_code: "8"
+      news_office_checked: "2144"
+
+    - name: "서울신문"
+      press: "서울신문"
+      office_section_code: "1"
+      news_office_checked: "1081"
+
+    - name: "연합뉴스"
+      press: "연합뉴스"
+      office_section_code: "2"
+      news_office_checked: "1001"
+
+    - name: "파이낸셜뉴스"
+      press: "파이낸셜뉴스"
+      office_section_code: "3"
+      news_office_checked: "1014"
+
+    - name: "피앤피뉴스"
+      press: "피앤피뉴스"
+      office_section_code: "8"
+      news_office_checked: "2614"
+
+    - name: "FPN"
+      press: "FPN"
+      office_section_code: "8"
+      news_office_checked: "2070"
+
+press_release:
+  sources:
+    - name: "소방청"
+      crawler_type: "fire_agency"
+      url: "https://www.nfa.go.kr/nfa/news/pressrelease/press/"
+      limit: 30
+      enabled: true
+
+    - name: "인사혁신처"
+      crawler_type: "mpm"
+      url: "https://www.mpm.go.kr/mpm/comm/newsPress/newsPressRelease/"
+      limit: 30
+      enabled: true
