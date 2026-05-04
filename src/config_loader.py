@@ -31,6 +31,26 @@ def load_config(config_path: str = "config/config.yaml") -> Dict[str, Any]:
     return config
 
 
+def to_bool(value: Any, default: bool = False) -> bool:
+    if value is None:
+        return default
+
+    if isinstance(value, bool):
+        return value
+
+    if isinstance(value, int):
+        return value != 0
+
+    normalized = str(value).strip().lower()
+
+    if normalized in ("true", "1", "yes", "y", "on"):
+        return True
+
+    if normalized in ("false", "0", "no", "n", "off"):
+        return False
+
+    return default
+
 def build_date_range(config: Dict[str, Any]) -> tuple[str, str]:
     schedule_config = config.get("schedule", {})
     date_config = config.get("date", {})
@@ -121,7 +141,7 @@ def build_press_release_jobs(config: Dict[str, Any]) -> List[Dict[str, Any]]:
     jobs: List[Dict[str, Any]] = []
 
     for source in sources:
-        enabled = bool(source.get("enabled", False))
+        enabled = to_bool(source.get("enabled"), default=False)
 
         if not enabled:
             continue
