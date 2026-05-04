@@ -34,71 +34,75 @@ def crawl(job: Dict, crawler_config: Dict) -> List[Article]:
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=headless)
 
-        page = browser.new_page(
-            viewport={"width": 1280, "height": 1600},
-            user_agent=(
-                "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-                "AppleWebKit/537.36 (KHTML, like Gecko) "
-                "Chrome/120.0.0.0 Safari/537.36"
-            ),
-        )
+        try:
+            page = browser.new_page(
+                viewport={"width": 1280, "height": 1600},
+                user_agent=(
+                    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                    "AppleWebKit/537.36 (KHTML, like Gecko) "
+                    "Chrome/120.0.0.0 Safari/537.36"
+                ),
+            )
 
-        _goto_with_retry(page, url)
+            _goto_with_retry(page, url)
 
-        articles = page.evaluate(
-            """
-            ({ source, limit }) => {
-                const results = [];
-                const seen = new Set();
+            articles = page.evaluate(
+                """
+                ({ source, limit }) => {
+                    const results = [];
+                    const seen = new Set();
 
-                function cleanText(text) {
-                    return (text || '').replace(/\\s+/g, ' ').trim();
-                }
-
-                const rows = Array.from(document.querySelectorAll('tbody tr'));
-
-                for (const row of rows) {
-                    const titleLink = row.querySelector('td.title a[href]');
-                    const dateCell = row.querySelector('td.created');
-
-                    if (!titleLink) continue;
-
-                    const title = cleanText(titleLink.innerText);
-                    const href = titleLink.getAttribute('href');
-                    const publishedAt = dateCell ? cleanText(dateCell.innerText) : '';
-
-                    if (!title || !href) continue;
-
-                    const link = new URL(href, window.location.href).href;
-
-                    if (seen.has(link)) continue;
-
-                    results.push({
-                        title,
-                        link,
-                        source,
-                        source_type: 'fire_agency',
-                        keyword: '',
-                        item_type: 'press_release',
-                        published_at: publishedAt
-                    });
-
-                    seen.add(link);
-
-                    if (results.length >= limit) {
-                        break;
+                    function cleanText(text) {
+                        return (text || '').replace(/\\s+/g, ' ').trim();
                     }
+
+                    const rows = Array.from(
+                        document.querySelectorAll('table.bbsList tbody tr')
+                    );
+
+                    for (const row of rows) {
+                        const titleLink = row.querySelector('td.title a[href]');
+                        const dateCell = row.querySelector('td.created');
+
+                        if (!titleLink) continue;
+
+                        const title = cleanText(titleLink.innerText);
+                        const href = titleLink.getAttribute('href');
+                        const publishedAt = dateCell ? cleanText(dateCell.innerText) : '';
+
+                        if (!title || !href) continue;
+
+                        const link = new URL(href, window.location.href).href;
+
+                        if (seen.has(link)) continue;
+
+                        results.push({
+                            title,
+                            link,
+                            source,
+                            source_type: 'mpm',
+                            keyword: '',
+                            item_type: 'press_release',
+                            published_at: publishedAt
+                        });
+
+                        seen.add(link);
+
+                        if (results.length >= limit) {
+                            break;
+                        }
+                    }
+
+                    return results;
                 }
+                """,
+                {"source": source, "limit": limit},
+            )
 
-                return results;
-            }
-            """,
-            {"source": source, "limit": limit},
-        )
+            return articles
 
-        browser.close()
-
-        return articles
+        finally:
+            browser.close()
     
 def _goto_with_retry(page, url: str, retries: int = 3) -> None:
     last_error = None

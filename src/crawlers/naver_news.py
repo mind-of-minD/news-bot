@@ -35,74 +35,76 @@ def crawl(job: Dict, crawler_config: Dict) -> List[Article]:
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=headless)
 
-        page = browser.new_page(
-            viewport={"width": 1280, "height": 1600},
-            user_agent=(
-                "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-                "AppleWebKit/537.36 (KHTML, like Gecko) "
-                "Chrome/120.0.0.0 Safari/537.36"
-            ),
-        )
+        try:
+            page = browser.new_page(
+                viewport={"width": 1280, "height": 1600},
+                user_agent=(
+                    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                    "AppleWebKit/537.36 (KHTML, like Gecko) "
+                    "Chrome/120.0.0.0 Safari/537.36"
+                ),
+            )
 
-        _goto_with_retry(page, url)
+            _goto_with_retry(page, url)
 
-        articles: List[Article] = []
-        seen_links = set()
-        scroll_attempts = 0
-        stagnant_count = 0
+            articles: List[Article] = []
+            seen_links = set()
+            scroll_attempts = 0
+            stagnant_count = 0
 
-        while len(articles) < limit and scroll_attempts <= max_scroll_attempts:
-            previous_count = len(articles)
+            while len(articles) < limit and scroll_attempts <= max_scroll_attempts:
+                previous_count = len(articles)
 
-            extracted = _extract_articles_from_page(page, source, keyword)
+                extracted = _extract_articles_from_page(page, source, keyword)
 
-            for article in extracted:
-                link = article["link"]
+                for article in extracted:
+                    link = article["link"]
 
-                if link in seen_links:
-                    continue
+                    if link in seen_links:
+                        continue
 
-                seen_links.add(link)
-                articles.append(article)
+                    seen_links.add(link)
+                    articles.append(article)
+
+                    if len(articles) >= limit:
+                        break
 
                 if len(articles) >= limit:
                     break
 
-            if len(articles) >= limit:
-                break
+                prev_cards = page.locator("div.fds-news-item-list-tab").count()
 
-            prev_cards = page.locator("div.fds-news-item-list-tab").count()
+                page.mouse.wheel(0, 3000)
 
-            page.mouse.wheel(0, 3000)
+                try:
+                    page.wait_for_function(
+                        """
+                        (prev) => {
+                            return document.querySelectorAll('div.fds-news-item-list-tab').length > prev;
+                        }
+                        """,
+                        prev_cards,
+                        timeout=3000,
+                    )
+                except Exception:
+                    pass
 
-            try:
-                page.wait_for_function(
-                    """
-                    (prev) => {
-                        return document.querySelectorAll('div.fds-news-item-list-tab').length > prev;
-                    }
-                    """,
-                    prev_cards,
-                    timeout=3000,
-                )
-            except Exception:
-                pass
+                page.wait_for_timeout(scroll_wait_ms)
 
-            page.wait_for_timeout(scroll_wait_ms)
+                if len(articles) == previous_count:
+                    stagnant_count += 1
+                else:
+                    stagnant_count = 0
 
-            if len(articles) == previous_count:
-                stagnant_count += 1
-            else:
-                stagnant_count = 0
+                if stagnant_count >= 3:
+                    break
 
-            if stagnant_count >= 3:
-                break
+                scroll_attempts += 1
 
-            scroll_attempts += 1
+            return articles[:limit]
 
-        browser.close()
-
-        return articles[:limit]
+        finally:
+            browser.close()
 
 
 def _extract_articles_from_page(
