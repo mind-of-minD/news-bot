@@ -1,8 +1,7 @@
 from typing import Any, Dict, List
 
-from typing import Any, Dict, List
-
 from src.crawlers import fire_agency, mpm, naver_news
+
 
 Article = Dict[str, str]
 Job = Dict[str, Any]
@@ -48,9 +47,18 @@ def run_all_crawlers(
         print(f"[CRAWLER] {crawler_type}")
         print("=" * 60)
 
-        articles = run_crawler(job, crawler_config)
+        error_message = ""
 
-        print(f"{job_name}: {len(articles)}개 수집\n")
+        try:
+            articles = run_crawler(job, crawler_config)
+            print(f"{job_name}: {len(articles)}개 수집\n")
+
+        except Exception as e:
+            articles = []
+            error_message = str(e)
+
+            print(f"[ERROR] {job_name} 수집 실패")
+            print(f"[ERROR] {error_message}\n")
 
         job_results.append(
             {
@@ -60,6 +68,8 @@ def run_all_crawlers(
                 "keyword": job.get("keyword", ""),
                 "url": job.get("url", ""),
                 "articles": articles,
+                "error": error_message,
+                "success": not bool(error_message),
             }
         )
 
