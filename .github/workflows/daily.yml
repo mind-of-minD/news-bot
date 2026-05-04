@@ -2,7 +2,7 @@ name: Daily News Bot
 
 on:
   schedule:
-    - cron: "03 2 * * *"   # KST 매일 11:17
+    - cron: "03 2 * * *"   # KST 매일 11:03
   workflow_dispatch:
 
 permissions:
