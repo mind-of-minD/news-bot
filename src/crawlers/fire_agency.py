@@ -1,5 +1,4 @@
 from typing import Dict, List
-from urllib.parse import urljoin
 
 from playwright.sync_api import sync_playwright
 
