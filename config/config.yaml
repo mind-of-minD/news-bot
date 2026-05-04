@@ -24,7 +24,6 @@ mail:
 naver_news:
   keywords:
     - "공무원"
-    - "교도소 출소"
   limit: 30
 
   common_params:
