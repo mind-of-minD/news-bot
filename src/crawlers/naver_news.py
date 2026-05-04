@@ -44,7 +44,7 @@ def crawl(job: Dict, crawler_config: Dict) -> List[Article]:
             ),
         )
 
-        page.goto(url, wait_until="networkidle", timeout=30000)
+        _goto_with_retry(page, url)
 
         articles: List[Article] = []
         seen_links = set()
@@ -257,3 +257,18 @@ def _extract_articles_from_page(
         """,
         {"source": source, "keyword": keyword},
     )
+
+def _goto_with_retry(page: Page, url: str, retries: int = 3) -> None:
+    last_error = None
+
+    for attempt in range(1, retries + 1):
+        try:
+            page.goto(url, wait_until="networkidle", timeout=30000)
+            page.wait_for_timeout(3000)
+            return
+        except Exception as e:
+            last_error = e
+            print(f"[WARN] 네이버 뉴스 접속 실패 {attempt}/{retries}: {e}")
+            page.wait_for_timeout(3000)
+
+    raise last_error
