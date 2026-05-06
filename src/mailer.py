@@ -2,25 +2,38 @@ import os
 import smtplib
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
-from typing import List
+from typing import List, Tuple
 
 
-def get_recipients() -> List[str]:
-    raw_recipients = os.getenv("EMAIL_TO", "")
+def parse_email_list(env_name: str) -> List[str]:
+    raw_recipients = os.getenv(env_name, "")
 
-    recipients = [
+    return [
         email.strip()
         for email in raw_recipients.split(",")
         if email.strip()
     ]
 
-    if not recipients:
+
+def get_recipients() -> Tuple[List[str], List[str]]:
+    to_recipients = parse_email_list("EMAIL_TO")
+    cc_recipients = parse_email_list("EMAIL_CC")
+
+    if not to_recipients:
         raise ValueError("EMAIL_TO 환경변수가 비어 있습니다.")
 
-    return recipients
+    return to_recipients, cc_recipients
 
 
-def send_email(subject: str, html_body: str, recipients: List[str]) -> None:
+def send_email(
+    subject: str,
+    html_body: str,
+    recipients: List[str],
+    cc_recipients: List[str] = None,
+) -> None:
+    if cc_recipients is None:
+        cc_recipients = []
+
     smtp_host = os.environ["SMTP_HOST"]
     smtp_port_raw = os.getenv("SMTP_PORT", "587")
     smtp_user = os.environ["SMTP_USER"]
@@ -36,14 +49,19 @@ def send_email(subject: str, html_body: str, recipients: List[str]) -> None:
     msg["From"] = smtp_user
     msg["To"] = ", ".join(recipients)
 
+    if cc_recipients:
+        msg["Cc"] = ", ".join(cc_recipients)
+
     msg.attach(MIMEText(html_body, "html", "utf-8"))
+
+    all_recipients = recipients + cc_recipients
 
     if smtp_port == 465:
         with smtplib.SMTP_SSL(smtp_host, smtp_port) as server:
             server.login(smtp_user, smtp_password)
-            server.sendmail(smtp_user, recipients, msg.as_string())
+            server.sendmail(smtp_user, all_recipients, msg.as_string())
     else:
         with smtplib.SMTP(smtp_host, smtp_port) as server:
             server.starttls()
             server.login(smtp_user, smtp_password)
-            server.sendmail(smtp_user, recipients, msg.as_string())
+            server.sendmail(smtp_user, all_recipients, msg.as_string())

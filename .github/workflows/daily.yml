@@ -35,6 +35,7 @@ jobs:
           SMTP_USER: ${{ secrets.SMTP_USER }}
           SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
           EMAIL_TO: ${{ secrets.EMAIL_TO }}
+          EMAIL_CC: ${{ secrets.EMAIL_CC }}
         run: python -m src.main
 
       - name: Commit updated sent articles

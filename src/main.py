@@ -101,15 +101,18 @@ def main() -> None:
 
     subject = build_email_subject(config)
     html_body = build_email_html(config, filtered_job_results)
-    recipients = get_recipients()
+
+    recipients, cc_recipients = get_recipients()
 
     print(f"[MAIL] 수신자 {len(recipients)}명")
+    print(f"[MAIL] 참조 {len(cc_recipients)}명")
     print(f"[MAIL] 제목: {subject}")
 
     send_email(
         subject=subject,
         html_body=html_body,
         recipients=recipients,
+        cc_recipients=cc_recipients,
     )
 
     print("[MAIL] 발송 완료")
