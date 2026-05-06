@@ -2,3 +2,4 @@
 .env
 __pycache__/
 *.pycrun_news_bot.bat
+run_news_bot.bat
