@@ -1,6 +1,6 @@
 schedule:
   timezone: "Asia/Seoul"
-  run_time: "11:00"
+  run_time: ":00"
 
 date:
   mode: "relative"
@@ -24,6 +24,7 @@ mail:
 naver_news:
   keywords:
     - "공무원"
+    - "계리직"
   limit: 30
 
   common_params:
