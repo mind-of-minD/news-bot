@@ -79,6 +79,11 @@ naver_news:
       office_section_code: "8"
       news_office_checked: "2070"
 
+    - name: "아시아경제"
+      press: "아시아경제"
+      office_section_code: "3"
+      news_office_checked: "1277"
+    
 press_release:
   sources:
     - name: "소방청"
