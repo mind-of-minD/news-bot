@@ -1,986 +1,6 @@
 {
   "sent_articles": [
     {
-      "link": "https://www.newsis.com/view/NISX20260617_0003672103",
-      "title": "20일 전국서 지방공무원 9급 필기시험…경쟁률 6.1대 1",
-      "source": "뉴시스",
-      "source_type": "naver_news",
-      "keyword": "공무원",
-      "item_type": "main",
-      "published_at": "",
-      "sent_at": "2026-06-18T11:14:25.202252+09:00"
-    },
-    {
-      "link": "https://www.newsis.com/view/NISX20260617_0003673012",
-      "title": "'공무원 채용비리' 강서구의회 의장 징역 5년 구형",
-      "source": "뉴시스",
-      "source_type": "naver_news",
-      "keyword": "공무원",
-      "item_type": "main",
-      "published_at": "",
-      "sent_at": "2026-06-18T11:14:25.202252+09:00"
-    },
-    {
-      "link": "https://www.newsis.com/view/NISX20260617_0003672951",
-      "title": "경찰, 7호선 청라연장 차량 담당 인천 공무원들 내사",
-      "source": "뉴시스",
-      "source_type": "naver_news",
-      "keyword": "공무원",
-      "item_type": "main",
-      "published_at": "",
-      "sent_at": "2026-06-18T11:14:25.202252+09:00"
-    },
-    {
-      "link": "https://www.newsis.com/view/NISX20260617_0003673409",
-      "title": "부산소방 공무원, 상조회비 3400만원 횡령 혐의…경찰 수사",
-      "source": "뉴시스",
-      "source_type": "naver_news",
-      "keyword": "공무원",
-      "item_type": "main",
-      "published_at": "",
-      "sent_at": "2026-06-18T11:14:25.202252+09:00"
-    },
-    {
-      "link": "https://www.newsis.com/view/NISX20260617_0003673255",
-      "title": "화재진압부터 대형재난 대응…김포소방 女공무원 맹활약",
-      "source": "뉴시스",
-      "source_type": "naver_news",
-      "keyword": "공무원",
-      "item_type": "main",
-      "published_at": "",
-      "sent_at": "2026-06-18T11:14:25.202252+09:00"
-    },
-    {
-      "link": "https://www.newsis.com/view/NISX20260617_0003673411",
-      "title": "울산시, 제3회 지방공무원 임용 필기시험 실시…527명 선발",
-      "source": "뉴시스",
-      "source_type": "naver_news",
-      "keyword": "공무원",
-      "item_type": "main",
-      "published_at": "",
-      "sent_at": "2026-06-18T11:14:25.202252+09:00"
-    },
-    {
-      "link": "https://www.newsis.com/view/NISX20260617_0003672893",
-      "title": "국힘, 선관위 공무원 '외유성 출장' 논란에 업무상 횡령 혐의 고발…\"관...",
-      "source": "뉴시스",
-      "source_type": "naver_news",
-      "keyword": "공무원",
-      "item_type": "main",
-      "published_at": "",
-      "sent_at": "2026-06-18T11:14:25.202252+09:00"
-    },
-    {
-      "link": "https://www.newsis.com/view/NISI20260618_0021325376",
-      "title": "'관저 이전 봐주기 감사' 감사원 3급 공무원, 영장실질심사 출석",
-      "source": "뉴시스",
-      "source_type": "naver_news",
-      "keyword": "공무원",
-      "item_type": "main",
-      "published_at": "",
-      "sent_at": "2026-06-18T11:14:25.202252+09:00"
-    },
-    {
-      "link": "https://www.newsis.com/view/NISI20260617_0021323894",
-      "title": "국민의힘, 선관위 공무원 외유성 출장 의혹 고발",
-      "source": "뉴시스",
-      "source_type": "naver_news",
-      "keyword": "공무원",
-      "item_type": "main",
-      "published_at": "",
-      "sent_at": "2026-06-18T11:14:25.202252+09:00"
-    },
-    {
-      "link": "https://www.newsis.com/view/NISX20260617_0003672938",
-      "title": "구례군, 적극행정 우수 공무원 선정…업무 효율 향상 기여",
-      "source": "뉴시스",
-      "source_type": "naver_news",
-      "keyword": "공무원",
-      "item_type": "main",
-      "published_at": "",
-      "sent_at": "2026-06-18T11:14:25.202252+09:00"
-    },
-    {
-      "link": "https://www.newsis.com/view/NISX20260617_0003672643",
-      "title": "부안군, 군민 체감 '적극행정 5대 추진 방향' 확정",
-      "source": "뉴시스",
-      "source_type": "naver_news",
-      "keyword": "공무원",
-      "item_type": "main",
-      "published_at": "",
-      "sent_at": "2026-06-18T11:14:25.202252+09:00"
-    },
-    {
-      "link": "https://www.newsis.com/view/NISX20260617_0003672507",
-      "title": "\"차 번호판 1004 줘\"…대행업체 특혜 준 광주 서구청 직원들",
-      "source": "뉴시스",
-      "source_type": "naver_news",
-      "keyword": "공무원",
-      "item_type": "main",
-      "published_at": "",
-      "sent_at": "2026-06-18T11:14:25.202252+09:00"
-    },
-    {
-      "link": "https://www.newsis.com/view/NISX20260618_0003673633",
-      "title": "\"학창 시절 왕따라 친구 없어\"…'결혼식 하객 알바' 고민에 설왕설래",
-      "source": "뉴시스",
-      "source_type": "naver_news",
-      "keyword": "공무원",
-      "item_type": "main",
-      "published_at": "",
-      "sent_at": "2026-06-18T11:14:25.202252+09:00"
-    },
-    {
-      "link": "https://www.newsis.com/view/NISX20260617_0003672781",
-      "title": "케냐, 학술회의 대만 대표단 돌려보내…대만 “중국 압력”",
-      "source": "뉴시스",
-      "source_type": "naver_news",
-      "keyword": "공무원",
-      "item_type": "main",
-      "published_at": "",
-      "sent_at": "2026-06-18T11:14:25.202252+09:00"
-    },
-    {
-      "link": "https://www.newsis.com/view/NISI20260617_0021323846",
-      "title": "기자회견하는 최혁진 의원",
-      "source": "뉴시스",
-      "source_type": "naver_news",
-      "keyword": "공무원",
-      "item_type": "main",
-      "published_at": "",
-      "sent_at": "2026-06-18T11:14:25.202252+09:00"
-    },
-    {
-      "link": "https://www.newsis.com/view/NISX20260617_0003672711",
-      "title": "전남광주교육청 노조, '전남·광주 승진·전보 분리' 요구",
-      "source": "뉴시스",
-      "source_type": "naver_news",
-      "keyword": "공무원",
-      "item_type": "main",
-      "published_at": "",
-      "sent_at": "2026-06-18T11:14:25.202252+09:00"
-    },
-    {
-      "link": "https://www.newsis.com/view/NISX20260617_0003673249",
-      "title": "[오늘의 주요일정]충북(6월18일 목요일)",
-      "source": "뉴시스",
-      "source_type": "naver_news",
-      "keyword": "공무원",
-      "item_type": "main",
-      "published_at": "",
-      "sent_at": "2026-06-18T11:14:25.202252+09:00"
-    },
-    {
-      "link": "https://www.newsis.com/view/NISX20260615_0003670030",
-      "title": "[오늘의 주요일정]전북(6월17일 수요일)",
-      "source": "뉴시스",
-      "source_type": "naver_news",
-      "keyword": "공무원",
-      "item_type": "main",
-      "published_at": "",
-      "sent_at": "2026-06-18T11:14:25.202252+09:00"
-    },
-    {
-      "link": "https://www.newsis.com/view/NISX20260617_0003673176",
-      "title": "여야, 오늘 본회의서 '투표용지 부족사태' 국조계획서 처리",
-      "source": "뉴시스",
-      "source_type": "naver_news",
-      "keyword": "공무원",
-      "item_type": "main",
-      "published_at": "",
-      "sent_at": "2026-06-18T11:14:25.202252+09:00"
-    },
-    {
-      "link": "https://www.newsis.com/view/NISX20260617_0003672868",
-      "title": "화물연대 집회서 흉기들고 3시간20분 배회…조합원 집유",
-      "source": "뉴시스",
-      "source_type": "naver_news",
-      "keyword": "공무원",
-      "item_type": "main",
-      "published_at": "",
-      "sent_at": "2026-06-18T11:14:25.202252+09:00"
-    },
-    {
-      "link": "https://www.newsis.com/view/NISX20260618_0003673538",
-      "title": "인천시, 가맹사업 분쟁 소상공인 찾아가 '법률 상담'",
-      "source": "뉴시스",
-      "source_type": "naver_news",
-      "keyword": "공무원",
-      "item_type": "main",
-      "published_at": "",
-      "sent_at": "2026-06-18T11:14:25.202252+09:00"
-    },
-    {
-      "link": "https://www.newsis.com/view/NISX20260617_0003671794",
-      "title": "[인터뷰] 전화식 당선인 \"사람 모이고 머무는 성주 만들겠다\"",
-      "source": "뉴시스",
-      "source_type": "naver_news",
-      "keyword": "공무원",
-      "item_type": "main",
-      "published_at": "",
-      "sent_at": "2026-06-18T11:14:25.202252+09:00"
-    },
-    {
-      "link": "http://www.lec.co.kr/news/articleView.html?idxno=752244",
-      "title": "2026년 국회직 9급 공무원시험 선발 계획 공개",
-      "source": "법률저널",
-      "source_type": "naver_news",
-      "keyword": "공무원",
-      "item_type": "main",
-      "published_at": "",
-      "sent_at": "2026-06-18T11:14:25.202252+09:00"
-    },
-    {
-      "link": "http://www.lec.co.kr/news/articleView.html?idxno=752241",
-      "title": "저연차·격무 공무원 대상 '마음채움 원격근무' 성료",
-      "source": "법률저널",
-      "source_type": "naver_news",
-      "keyword": "공무원",
-      "item_type": "main",
-      "published_at": "",
-      "sent_at": "2026-06-18T11:14:25.202252+09:00"
-    },
-    {
-      "link": "http://www.lec.co.kr/news/articleView.html?idxno=752243",
-      "title": "'선발 증가로 경쟁 완화'된 지방직 9급 필기시험 20일 전국 동시 실시",
-      "source": "법률저널",
-      "source_type": "naver_news",
-      "keyword": "공무원",
-      "item_type": "main",
-      "published_at": "",
-      "sent_at": "2026-06-18T11:14:25.202252+09:00"
-    },
-    {
-      "link": "https://www.seoul.co.kr/news/society/2026/06/17/20260617500197?wlog_tag3=naver",
-      "title": "“저 車번호 7777이야!” 어떻게 받나 했더니…접대받은 공무원들, 번호...",
-      "source": "서울신문",
-      "source_type": "naver_news",
-      "keyword": "공무원",
-      "item_type": "main",
-      "published_at": "",
-      "sent_at": "2026-06-18T11:14:25.202252+09:00"
-    },
-    {
-      "link": "https://www.seoul.co.kr/news/society/2026/06/17/20260617500201?wlog_tag3=naver",
-      "title": "부산소방재난본부장에 이진호 소방정감 취임…“예방·현장 대응 강화”",
-      "source": "서울신문",
-      "source_type": "naver_news",
-      "keyword": "공무원",
-      "item_type": "main",
-      "published_at": "",
-      "sent_at": "2026-06-18T11:14:25.202252+09:00"
-    },
-    {
-      "link": "https://www.seoul.co.kr/news/society/2026/06/18/20260618500002?wlog_tag3=naver",
-      "title": "전남·광주 교육통합 ‘인사권 독립’ 놓고 갈등",
-      "source": "서울신문",
-      "source_type": "naver_news",
-      "keyword": "공무원",
-      "item_type": "main",
-      "published_at": "",
-      "sent_at": "2026-06-18T11:14:25.202252+09:00"
-    },
-    {
-      "link": "https://www.seoul.co.kr/news/publicnews/local_govern/smc_movement/2026/06/17/20260617500243?wlog_tag3=naver",
-      "title": "신동원 서울시의원, 제9회 지방선거 ‘선거효력 무효소청장’ 제출",
-      "source": "서울신문",
-      "source_type": "naver_news",
-      "keyword": "공무원",
-      "item_type": "main",
-      "published_at": "",
-      "sent_at": "2026-06-18T11:14:25.202252+09:00"
-    },
-    {
-      "link": "https://www.seoul.co.kr/news/politics/2026/06/18/20260618500021?wlog_tag3=naver",
-      "title": "노태악, 해외출장 3번 모두 ‘부부동반’…나랏돈 쓰고 보고서엔 ‘비공...",
-      "source": "서울신문",
-      "source_type": "naver_news",
-      "keyword": "공무원",
-      "item_type": "main",
-      "published_at": "",
-      "sent_at": "2026-06-18T11:14:25.202252+09:00"
-    },
-    {
-      "link": "https://www.seoul.co.kr/news/publicnews/local_govern/news_local/2026/06/17/20260617500191?wlog_tag3=naver",
-      "title": "경북도의회, 경북도와 ‘인사교류 활성화 업무협약’ 체결",
-      "source": "서울신문",
-      "source_type": "naver_news",
-      "keyword": "공무원",
-      "item_type": "main",
-      "published_at": "",
-      "sent_at": "2026-06-18T11:14:25.202252+09:00"
-    },
-    {
-      "link": "https://www.seoul.co.kr/news/publicnews/local_govern/today_local/2026/06/17/20260617500142?wlog_tag3=naver",
-      "title": "김동연, 임기 말까지 도민 안전 챙겼다…우기 앞두고 가평 재해복구 현...",
-      "source": "서울신문",
-      "source_type": "naver_news",
-      "keyword": "공무원",
-      "item_type": "main",
-      "published_at": "",
-      "sent_at": "2026-06-18T11:14:25.202252+09:00"
-    },
-    {
-      "link": "https://www.seoul.co.kr/news/society/2026/06/17/20260617500152?wlog_tag3=naver",
-      "title": "충북도의회 교육위 임기 말 제주도 연찬회 가려다 취소",
-      "source": "서울신문",
-      "source_type": "naver_news",
-      "keyword": "공무원",
-      "item_type": "main",
-      "published_at": "",
-      "sent_at": "2026-06-18T11:14:25.202252+09:00"
-    },
-    {
-      "link": "https://www.seoul.co.kr/news/publicnews/local_govern/smc_movement/2026/06/17/20260617500165?wlog_tag3=naver",
-      "title": "구미경 서울시의원, 제11대 마지막 상임위서 서울영화센터 전기공사 예...",
-      "source": "서울신문",
-      "source_type": "naver_news",
-      "keyword": "공무원",
-      "item_type": "main",
-      "published_at": "",
-      "sent_at": "2026-06-18T11:14:25.202252+09:00"
-    },
-    {
-      "link": "https://www.seoul.co.kr/news/publicnews/seoul_local/today_seoul/2026/06/18/20260618021001?wlog_tag3=naver",
-      "title": "“뚜벅이 4년간 깨달은 마포 현안 해결… 첫 결재는 정비사업” [민선 ...",
-      "source": "서울신문",
-      "source_type": "naver_news",
-      "keyword": "공무원",
-      "item_type": "main",
-      "published_at": "",
-      "sent_at": "2026-06-18T11:14:25.202252+09:00"
-    },
-    {
-      "link": "https://www.seoul.co.kr/news/publicnews/2026/06/17/20260617500178?wlog_tag3=naver",
-      "title": "인천시장 교체시기에…인천도시공사 본부장 승진 인사 ‘논란’",
-      "source": "서울신문",
-      "source_type": "naver_news",
-      "keyword": "공무원",
-      "item_type": "main",
-      "published_at": "",
-      "sent_at": "2026-06-18T11:14:25.202252+09:00"
-    },
-    {
-      "link": "https://www.yna.co.kr/view/AKR20260617042300530?input=1195m",
-      "title": "지방공무원 9급 필기시험 경쟁률 6.1대 1…최근 5년 내 최저",
-      "source": "연합뉴스",
-      "source_type": "naver_news",
-      "keyword": "공무원",
-      "item_type": "main",
-      "published_at": "",
-      "sent_at": "2026-06-18T11:14:25.202252+09:00"
-    },
-    {
-      "link": "https://www.yna.co.kr/view/AKR20260617160300057?input=1195m",
-      "title": "울산시, 20일 지방공무원 임용 시험…경쟁률 5.7대 1",
-      "source": "연합뉴스",
-      "source_type": "naver_news",
-      "keyword": "공무원",
-      "item_type": "main",
-      "published_at": "",
-      "sent_at": "2026-06-18T11:14:25.202252+09:00"
-    },
-    {
-      "link": "https://www.yna.co.kr/view/AKR20260617035900530?input=1195m",
-      "title": "지방자치인재개발원, 콜롬비아 등 5개국 지방공무원 초청연수",
-      "source": "연합뉴스",
-      "source_type": "naver_news",
-      "keyword": "공무원",
-      "item_type": "main",
-      "published_at": "",
-      "sent_at": "2026-06-18T11:14:25.202252+09:00"
-    },
-    {
-      "link": "https://www.yna.co.kr/view/AKR20260617044900530?input=1195m",
-      "title": "\"전공자 아니어도 한다\"…다음주 공무원 AI 코딩 해커톤 본선",
-      "source": "연합뉴스",
-      "source_type": "naver_news",
-      "keyword": "공무원",
-      "item_type": "main",
-      "published_at": "",
-      "sent_at": "2026-06-18T11:14:25.202252+09:00"
-    },
-    {
-      "link": "https://www.yna.co.kr/view/AKR20260618049800004?input=1195m",
-      "title": "'투표지 부족' 합수본, 투표관리원 9명 참고인 조사…수사 속도",
-      "source": "연합뉴스",
-      "source_type": "naver_news",
-      "keyword": "공무원",
-      "item_type": "main",
-      "published_at": "",
-      "sent_at": "2026-06-18T11:14:25.202252+09:00"
-    },
-    {
-      "link": "https://www.yna.co.kr/view/AKR20260617173600001?input=1195m",
-      "title": "선관위, 대학생 단체와 면담…\"수사·국조 성실히 응하겠다\"",
-      "source": "연합뉴스",
-      "source_type": "naver_news",
-      "keyword": "공무원",
-      "item_type": "main",
-      "published_at": "",
-      "sent_at": "2026-06-18T11:14:25.202252+09:00"
-    },
-    {
-      "link": "https://www.yna.co.kr/view/AKR20260617085900004?input=1195m",
-      "title": "대검 감찰부장, 공소청법 헌법소원…\"시행 시 임기 강제종료\"",
-      "source": "연합뉴스",
-      "source_type": "naver_news",
-      "keyword": "공무원",
-      "item_type": "main",
-      "published_at": "",
-      "sent_at": "2026-06-18T11:14:25.202252+09:00"
-    },
-    {
-      "link": "https://www.yna.co.kr/view/AKR20260617033300530?input=1195m",
-      "title": "부산소방 '보조배터리 방화팩'에 소방청 최고 포상금 2천만원",
-      "source": "연합뉴스",
-      "source_type": "naver_news",
-      "keyword": "공무원",
-      "item_type": "main",
-      "published_at": "",
-      "sent_at": "2026-06-18T11:14:25.202252+09:00"
-    },
-    {
-      "link": "https://www.yna.co.kr/view/AKR20260617171500051?input=1195m",
-      "title": "경찰, 상조회비 3천여만원 횡령 혐의 부산소방 직원 수사",
-      "source": "연합뉴스",
-      "source_type": "naver_news",
-      "keyword": "공무원",
-      "item_type": "main",
-      "published_at": "",
-      "sent_at": "2026-06-18T11:14:25.202252+09:00"
-    },
-    {
-      "link": "https://www.yna.co.kr/view/AKR20260617128500065?input=1195m",
-      "title": "행정체제 개편에 예산 펑크…비상 걸린 인천 서구·검단구",
-      "source": "연합뉴스",
-      "source_type": "naver_news",
-      "keyword": "공무원",
-      "item_type": "main",
-      "published_at": "",
-      "sent_at": "2026-06-18T11:14:25.202252+09:00"
-    },
-    {
-      "link": "https://www.yna.co.kr/view/AKR20260617115400055?input=1195m",
-      "title": "집 안 가득 찬 노인가구의 생활 쓰레기…지역사회가 함께 치웠다",
-      "source": "연합뉴스",
-      "source_type": "naver_news",
-      "keyword": "공무원",
-      "item_type": "main",
-      "published_at": "",
-      "sent_at": "2026-06-18T11:14:25.202252+09:00"
-    },
-    {
-      "link": "https://www.yna.co.kr/view/AKR20260617105800001?input=1195m",
-      "title": "최동석 인사처장 \"신상필벌 강화…평가·보상·징계분야 과제검토\"",
-      "source": "연합뉴스",
-      "source_type": "naver_news",
-      "keyword": "공무원",
-      "item_type": "main",
-      "published_at": "",
-      "sent_at": "2026-06-18T11:14:25.202252+09:00"
-    },
-    {
-      "link": "https://www.yna.co.kr/view/AKR20260617077800054?input=1195m",
-      "title": "전남광주교육청 조직개편·인사에 교직원들 반발·우려",
-      "source": "연합뉴스",
-      "source_type": "naver_news",
-      "keyword": "공무원",
-      "item_type": "main",
-      "published_at": "",
-      "sent_at": "2026-06-18T11:14:25.202252+09:00"
-    },
-    {
-      "link": "https://www.yna.co.kr/view/AKR20260617083051001?input=1195m",
-      "title": "여야, 선관위 국조특위 구성 완료…위원장에 국힘 윤상현(종합)",
-      "source": "연합뉴스",
-      "source_type": "naver_news",
-      "keyword": "공무원",
-      "item_type": "main",
-      "published_at": "",
-      "sent_at": "2026-06-18T11:14:25.202252+09:00"
-    },
-    {
-      "link": "https://www.yna.co.kr/view/AKR20260618019100011?input=1195m",
-      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
-      "source": "연합뉴스",
-      "source_type": "naver_news",
-      "keyword": "공무원",
-      "item_type": "main",
-      "published_at": "",
-      "sent_at": "2026-06-18T11:14:25.202252+09:00"
-    },
-    {
-      "link": "https://www.yna.co.kr/view/AKR20260618017900504?input=1195m",
-      "title": "북한, '장애인의 날' 기념행사…\"보호시책 속 보람찬 삶\" 선전",
-      "source": "연합뉴스",
-      "source_type": "naver_news",
-      "keyword": "공무원",
-      "item_type": "main",
-      "published_at": "",
-      "sent_at": "2026-06-18T11:14:25.202252+09:00"
-    },
-    {
-      "link": "https://www.yna.co.kr/view/AKR20260618068700062?input=1195m",
-      "title": "양양군, 민선 9기 출범 앞두고 주요 현안 사업 현장점검",
-      "source": "연합뉴스",
-      "source_type": "naver_news",
-      "keyword": "공무원",
-      "item_type": "main",
-      "published_at": "",
-      "sent_at": "2026-06-18T11:14:25.202252+09:00"
-    },
-    {
-      "link": "https://www.yna.co.kr/view/AKR20260618065500062?input=1195m",
-      "title": "여름밤 추암의 매력…동해시, 19일 '별빛 야행' 연다",
-      "source": "연합뉴스",
-      "source_type": "naver_news",
-      "keyword": "공무원",
-      "item_type": "main",
-      "published_at": "",
-      "sent_at": "2026-06-18T11:14:25.202252+09:00"
-    },
-    {
-      "link": "https://www.yna.co.kr/view/AKR20260617034300530?input=1195m",
-      "title": "행안장관, 인도·우즈벡 방문…재난안전 파트너십 강화",
-      "source": "연합뉴스",
-      "source_type": "naver_news",
-      "keyword": "공무원",
-      "item_type": "main",
-      "published_at": "",
-      "sent_at": "2026-06-18T11:14:25.202252+09:00"
-    },
-    {
-      "link": "https://www.yna.co.kr/view/AKR20260617121400057?input=1195m",
-      "title": "울주군, 방역기동반 모기 유충구제 교육…\"방역 대응력 강화\"",
-      "source": "연합뉴스",
-      "source_type": "naver_news",
-      "keyword": "공무원",
-      "item_type": "main",
-      "published_at": "",
-      "sent_at": "2026-06-18T11:14:25.202252+09:00"
-    },
-    {
-      "link": "https://www.yna.co.kr/view/AKR20260617073300001?input=1195m",
-      "title": "국힘, 선관위 외유성 출장 검경합수본에 고발…\"업무상 횡령\"",
-      "source": "연합뉴스",
-      "source_type": "naver_news",
-      "keyword": "공무원",
-      "item_type": "main",
-      "published_at": "",
-      "sent_at": "2026-06-18T11:14:25.202252+09:00"
-    },
-    {
-      "link": "https://www.yna.co.kr/view/AKR20260617071500004?input=1195m",
-      "title": "서울 중구, 취약계층에 폭염예방키트 800개 배부",
-      "source": "연합뉴스",
-      "source_type": "naver_news",
-      "keyword": "공무원",
-      "item_type": "main",
-      "published_at": "",
-      "sent_at": "2026-06-18T11:14:25.202252+09:00"
-    },
-    {
-      "link": "https://www.yna.co.kr/view/AKR20260617046200004?input=1195m",
-      "title": "강남구, AI활용 '옥외광고 행정시스템' 3종 개발…민원검토 1분",
-      "source": "연합뉴스",
-      "source_type": "naver_news",
-      "keyword": "공무원",
-      "item_type": "main",
-      "published_at": "",
-      "sent_at": "2026-06-18T11:14:25.202252+09:00"
-    },
-    {
-      "link": "https://www.yna.co.kr/view/AKR20260617121900062?input=1195m",
-      "title": "'대관람차 사업 특혜' 김철수 전 속초시장 항소심 공방 돌입",
-      "source": "연합뉴스",
-      "source_type": "naver_news",
-      "keyword": "공무원",
-      "item_type": "main",
-      "published_at": "",
-      "sent_at": "2026-06-18T11:14:25.202252+09:00"
-    },
-    {
-      "link": "https://www.yna.co.kr/view/AKR20260617150700063?input=1195m",
-      "title": "공주대 품고 글로컬대 선정됐지만 충남대서 \"무대책 통합\" 비판",
-      "source": "연합뉴스",
-      "source_type": "naver_news",
-      "keyword": "공무원",
-      "item_type": "main",
-      "published_at": "",
-      "sent_at": "2026-06-18T11:14:25.202252+09:00"
-    },
-    {
-      "link": "https://www.yna.co.kr/view/AKR20260617086600054?input=1195m",
-      "title": "이남오 함평군수 당선인, 공직선거법 위반 혐의로 고발당해",
-      "source": "연합뉴스",
-      "source_type": "naver_news",
-      "keyword": "공무원",
-      "item_type": "main",
-      "published_at": "",
-      "sent_at": "2026-06-18T11:14:25.202252+09:00"
-    },
-    {
-      "link": "http://www.fnnews.com/news/202606180620292360",
-      "title": "\"왠지 7777은 다 슈퍼카\"...황금 번호판 미리 빼놓은 공무원들, 접대 받...",
-      "source": "파이낸셜뉴스",
-      "source_type": "naver_news",
-      "keyword": "공무원",
-      "item_type": "main",
-      "published_at": "",
-      "sent_at": "2026-06-18T11:14:25.202252+09:00"
-    },
-    {
-      "link": "http://www.fnnews.com/news/202606171549150799",
-      "title": "지방직 9급 공채 20일 실시…14만명 지원, 경쟁률 6.1대 1",
-      "source": "파이낸셜뉴스",
-      "source_type": "naver_news",
-      "keyword": "공무원",
-      "item_type": "main",
-      "published_at": "",
-      "sent_at": "2026-06-18T11:14:25.202252+09:00"
-    },
-    {
-      "link": "http://www.fnnews.com/news/202606171859516728",
-      "title": "지방직 9급 공채 ‘경쟁률 6.1대 1’",
-      "source": "파이낸셜뉴스",
-      "source_type": "naver_news",
-      "keyword": "공무원",
-      "item_type": "main",
-      "published_at": "",
-      "sent_at": "2026-06-18T11:14:25.202252+09:00"
-    },
-    {
-      "link": "http://www.fnnews.com/news/202606171458066336",
-      "title": "TS, 지자체 대상 모빌리티 정책설명회 개최",
-      "source": "파이낸셜뉴스",
-      "source_type": "naver_news",
-      "keyword": "공무원",
-      "item_type": "main",
-      "published_at": "",
-      "sent_at": "2026-06-18T11:14:25.202252+09:00"
-    },
-    {
-      "link": "http://www.fnnews.com/news/202606171612417217",
-      "title": "투표지 부족 국조특위 여야 인선 완료..위원장에 국힘 윤상현",
-      "source": "파이낸셜뉴스",
-      "source_type": "naver_news",
-      "keyword": "공무원",
-      "item_type": "main",
-      "published_at": "",
-      "sent_at": "2026-06-18T11:14:25.202252+09:00"
-    },
-    {
-      "link": "http://www.fnnews.com/news/202606171353116600",
-      "title": "대검 감찰부장, 10월 시행 공소청법 헌법소원심판 청구...\"검사직 잃어\"",
-      "source": "파이낸셜뉴스",
-      "source_type": "naver_news",
-      "keyword": "공무원",
-      "item_type": "main",
-      "published_at": "",
-      "sent_at": "2026-06-18T11:14:25.202252+09:00"
-    },
-    {
-      "link": "http://www.fnnews.com/news/202606180841213379",
-      "title": "\"벽돌 든 남자가 돌아다녀요\"… 훔친 자전거 타고 달아난 40대男 전력질...",
-      "source": "파이낸셜뉴스",
-      "source_type": "naver_news",
-      "keyword": "공무원",
-      "item_type": "main",
-      "published_at": "",
-      "sent_at": "2026-06-18T11:14:25.202252+09:00"
-    },
-    {
-      "link": "https://www.gosiweek.com/article/1065565841697110",
-      "title": "\"5년 來 경쟁률 최저\" 지방공무원 9급 필기시험 20일 실시…경쟁률 6.1대...",
-      "source": "피앤피뉴스",
-      "source_type": "naver_news",
-      "keyword": "공무원",
-      "item_type": "main",
-      "published_at": "",
-      "sent_at": "2026-06-18T11:14:25.202252+09:00"
-    },
-    {
-      "link": "https://www.gosiweek.com/article/1065582142097415",
-      "title": "바다 보며 일하고 해변 쓰레기 줍고…공무원 '워케이션' 실험",
-      "source": "피앤피뉴스",
-      "source_type": "naver_news",
-      "keyword": "공무원",
-      "item_type": "main",
-      "published_at": "",
-      "sent_at": "2026-06-18T11:14:25.202252+09:00"
-    },
-    {
-      "link": "https://www.gosiweek.com/article/1065576370084483",
-      "title": "엑셀만 알던 공무원, AI 해커톤에 200개 팀 몰렸다...오는 23~24일 킨텍스...",
-      "source": "피앤피뉴스",
-      "source_type": "naver_news",
-      "keyword": "공무원",
-      "item_type": "main",
-      "published_at": "",
-      "sent_at": "2026-06-18T11:14:25.202252+09:00"
-    },
-    {
-      "link": "https://www.gosiweek.com/article/1065575810072197",
-      "title": "마약사범 늘었는데 치료는 끊긴다…한국형사·법무정책연구원 \"경찰 단...",
-      "source": "피앤피뉴스",
-      "source_type": "naver_news",
-      "keyword": "공무원",
-      "item_type": "main",
-      "published_at": "",
-      "sent_at": "2026-06-18T11:14:25.202252+09:00"
-    },
-    {
-      "link": "https://www.gosiweek.com/article/1065602751393263",
-      "title": "국회 9급 공채 38명 선발, 속기 14명·사서 9명 등 채용...19일부터 접수...",
-      "source": "피앤피뉴스",
-      "source_type": "naver_news",
-      "keyword": "공무원",
-      "item_type": "main",
-      "published_at": "",
-      "sent_at": "2026-06-18T11:14:25.202252+09:00"
-    },
-    {
-      "link": "https://www.gosiweek.com/article/1065580001866533",
-      "title": "경찰 간부후보 50명 뽑는데 2,923명 몰렸다…제76기 경위공채 경쟁률 58...",
-      "source": "피앤피뉴스",
-      "source_type": "naver_news",
-      "keyword": "공무원",
-      "item_type": "main",
-      "published_at": "",
-      "sent_at": "2026-06-18T11:14:25.202252+09:00"
-    },
-    {
-      "link": "https://www.gosiweek.com/article/1065598504401905",
-      "title": "올해 국회 8급 공채 경쟁률 52.7대 1…여성 지원자 더 많았지만 최종합...",
-      "source": "피앤피뉴스",
-      "source_type": "naver_news",
-      "keyword": "공무원",
-      "item_type": "main",
-      "published_at": "",
-      "sent_at": "2026-06-18T11:14:25.202252+09:00"
-    },
-    {
-      "link": "http://fpn119.co.kr/252590",
-      "title": "태백소방서, 퇴직 예정 소방공무원 퇴임 기념행사 개최",
-      "source": "FPN",
-      "source_type": "naver_news",
-      "keyword": "공무원",
-      "item_type": "main",
-      "published_at": "",
-      "sent_at": "2026-06-18T11:14:25.202252+09:00"
-    },
-    {
-      "link": "http://fpn119.co.kr/252577",
-      "title": "대구북부소방서-119시민안전봉사단, 여름철 공장화재 예방 캠페인",
-      "source": "FPN",
-      "source_type": "naver_news",
-      "keyword": "공무원",
-      "item_type": "main",
-      "published_at": "",
-      "sent_at": "2026-06-18T11:14:25.202252+09:00"
-    },
-    {
-      "link": "http://fpn119.co.kr/252606",
-      "title": "소방청, 119시민수상구조대 활동현장 점검ㆍ격려",
-      "source": "FPN",
-      "source_type": "naver_news",
-      "keyword": "공무원",
-      "item_type": "main",
-      "published_at": "",
-      "sent_at": "2026-06-18T11:14:25.202252+09:00"
-    },
-    {
-      "link": "http://fpn119.co.kr/252624",
-      "title": "“소방활동 전 건물 구조 등 정보 조사한다”",
-      "source": "FPN",
-      "source_type": "naver_news",
-      "keyword": "공무원",
-      "item_type": "main",
-      "published_at": "",
-      "sent_at": "2026-06-18T11:14:25.202252+09:00"
-    },
-    {
-      "link": "http://fpn119.co.kr/252572",
-      "title": "정선소방서, 국가유공자 가정에 주택용 소방시설 보급",
-      "source": "FPN",
-      "source_type": "naver_news",
-      "keyword": "공무원",
-      "item_type": "main",
-      "published_at": "",
-      "sent_at": "2026-06-18T11:14:25.202252+09:00"
-    },
-    {
-      "link": "http://fpn119.co.kr/252600",
-      "title": "인천119특수대응단, 어린이 수상안전 체험교실 운영",
-      "source": "FPN",
-      "source_type": "naver_news",
-      "keyword": "공무원",
-      "item_type": "main",
-      "published_at": "",
-      "sent_at": "2026-06-18T11:14:25.202252+09:00"
-    },
-    {
-      "link": "http://fpn119.co.kr/252610",
-      "title": "종로소방서, 현대건설 계동사옥서 화재대피ㆍ전기차 화재진압 소방훈련",
-      "source": "FPN",
-      "source_type": "naver_news",
-      "keyword": "공무원",
-      "item_type": "main",
-      "published_at": "",
-      "sent_at": "2026-06-18T11:14:25.202252+09:00"
-    },
-    {
-      "link": "https://view.asiae.co.kr/article/2026061715051170778",
-      "title": "인기 떨어진 공무원, 9급 지방직 6대 1… 5년 새 최저",
-      "source": "아시아경제",
-      "source_type": "naver_news",
-      "keyword": "공무원",
-      "item_type": "main",
-      "published_at": "",
-      "sent_at": "2026-06-18T11:14:25.202252+09:00"
-    },
-    {
-      "link": "https://view.asiae.co.kr/article/2026061713325916058",
-      "title": "공무원연맹·최혁진 의원 \"공직선거 체계 개선·지방공무원 강제동원 중...",
-      "source": "아시아경제",
-      "source_type": "naver_news",
-      "keyword": "공무원",
-      "item_type": "main",
-      "published_at": "",
-      "sent_at": "2026-06-18T11:14:25.202252+09:00"
-    },
-    {
-      "link": "https://view.asiae.co.kr/article/2026061713511114060",
-      "title": "\"7777·1004, 나도 받을 수 있었는데\"…황금번호판 '쏙' 빼간 공무원들",
-      "source": "아시아경제",
-      "source_type": "naver_news",
-      "keyword": "공무원",
-      "item_type": "main",
-      "published_at": "",
-      "sent_at": "2026-06-18T11:14:25.202252+09:00"
-    },
-    {
-      "link": "https://view.asiae.co.kr/article/2026061810222976841",
-      "title": "'투표용지 사태' 합수본, 오늘 투표관리원 9명 참고인 조사",
-      "source": "아시아경제",
-      "source_type": "naver_news",
-      "keyword": "공무원",
-      "item_type": "main",
-      "published_at": "",
-      "sent_at": "2026-06-18T11:14:25.202252+09:00"
-    },
-    {
-      "link": "https://view.asiae.co.kr/article/2026061715274564659",
-      "title": "GH, 17~18일 '도시재생대학 관리전문과정' 운영",
-      "source": "아시아경제",
-      "source_type": "naver_news",
-      "keyword": "공무원",
-      "item_type": "main",
-      "published_at": "",
-      "sent_at": "2026-06-18T11:14:25.202252+09:00"
-    },
-    {
-      "link": "https://view.asiae.co.kr/article/2026061712234791954",
-      "title": "광주 서구, '불합리한 규제 개선' 주민 아이디어 찾는다",
-      "source": "아시아경제",
-      "source_type": "naver_news",
-      "keyword": "공무원",
-      "item_type": "main",
-      "published_at": "",
-      "sent_at": "2026-06-18T11:14:25.202252+09:00"
-    },
-    {
-      "link": "https://view.asiae.co.kr/article/2026061711344880164",
-      "title": "선관위, 5년간 해외출장 107회…국민 혈세 24억 '펑펑' 썼다",
-      "source": "아시아경제",
-      "source_type": "naver_news",
-      "keyword": "공무원",
-      "item_type": "main",
-      "published_at": "",
-      "sent_at": "2026-06-18T11:14:25.202252+09:00"
-    },
-    {
-      "link": "https://view.asiae.co.kr/article/2026061809015755120",
-      "title": "산책길도 화장실도 안심할 수 없어…일상 파고드는 '곰 공포'에 떠는 日",
-      "source": "아시아경제",
-      "source_type": "naver_news",
-      "keyword": "공무원",
-      "item_type": "main",
-      "published_at": "",
-      "sent_at": "2026-06-18T11:14:25.202252+09:00"
-    },
-    {
-      "link": "https://view.asiae.co.kr/article/2026061715340507857",
-      "title": "김동연, 가평 재해복구 현장 점검…\"이번 복구로 예방까지\" 당부",
-      "source": "아시아경제",
-      "source_type": "naver_news",
-      "keyword": "공무원",
-      "item_type": "main",
-      "published_at": "",
-      "sent_at": "2026-06-18T11:14:25.202252+09:00"
-    },
-    {
-      "link": "https://view.asiae.co.kr/article/2026061719131333799",
-      "title": "대검 감찰부장, '시행 시 임기 종료' 공소청법 헌법소원…\"권력분립 원...",
-      "source": "아시아경제",
-      "source_type": "naver_news",
-      "keyword": "공무원",
-      "item_type": "main",
-      "published_at": "",
-      "sent_at": "2026-06-18T11:14:25.202252+09:00"
-    },
-    {
-      "link": "https://view.asiae.co.kr/article/2026061715532104127",
-      "title": "욕설·폭행·신상 털기·공안 몰이 … \"집회장 경찰관 인권 침해 중단하...",
-      "source": "아시아경제",
-      "source_type": "naver_news",
-      "keyword": "공무원",
-      "item_type": "main",
-      "published_at": "",
-      "sent_at": "2026-06-18T11:14:25.202252+09:00"
-    },
-    {
-      "link": "https://view.asiae.co.kr/article/2026061722204548187",
-      "title": "민경선호 고양시, ‘소통·자치 특례시’ 시동…행정혁신 공약 본격 검...",
-      "source": "아시아경제",
-      "source_type": "naver_news",
-      "keyword": "공무원",
-      "item_type": "main",
-      "published_at": "",
-      "sent_at": "2026-06-18T11:14:25.202252+09:00"
-    },
-    {
-      "link": "https://view.asiae.co.kr/article/2026061710204664027",
-      "title": "통합특별시교육청, 3단계 로드맵 '1실 4국' 체제로 \"본청 슬림화\"",
-      "source": "아시아경제",
-      "source_type": "naver_news",
-      "keyword": "공무원",
-      "item_type": "main",
-      "published_at": "",
-      "sent_at": "2026-06-18T11:14:25.202252+09:00"
-    },
-    {
-      "link": "https://view.asiae.co.kr/article/2026061718114347153",
-      "title": "창원 빅트리·맘스프리존 고강도 감사 들어가나",
-      "source": "아시아경제",
-      "source_type": "naver_news",
-      "keyword": "공무원",
-      "item_type": "main",
-      "published_at": "",
-      "sent_at": "2026-06-18T11:14:25.202252+09:00"
-    },
-    {
-      "link": "https://view.asiae.co.kr/article/2026061712534340149",
-      "title": "'민선 9기' 완도군 조직개편 밑그림…'4급 서기관' 쇄신 바람",
-      "source": "아시아경제",
-      "source_type": "naver_news",
-      "keyword": "공무원",
-      "item_type": "main",
-      "published_at": "",
-      "sent_at": "2026-06-18T11:14:25.202252+09:00"
-    },
-    {
       "link": "https://www.newsis.com/view/NISX20260618_0003674758",
       "title": "국가공무원 9급 공채 3718명 최종 합격…평균 29.7세",
       "source": "뉴시스",
@@ -7169,6 +6189,1056 @@
       "item_type": "press_release",
       "published_at": "2026-06-23",
       "sent_at": "2026-06-25T10:58:56.723096+09:00"
+    },
+    {
+      "link": "https://www.newsis.com/view/NISI20260625_0021336336",
+      "title": "국가공무원 5급 공채 시험장 점검하는 최동석 인사혁신처장",
+      "source": "뉴시스",
+      "source_type": "naver_news",
+      "keyword": "공무원",
+      "item_type": "main",
+      "published_at": "",
+      "sent_at": "2026-06-26T11:03:01.946861+09:00"
+    },
+    {
+      "link": "https://www.newsis.com/view/NISX20260626_0003684735",
+      "title": "전남·광주교육청, 신규 공무원 채용 '통합·분리 신경전'",
+      "source": "뉴시스",
+      "source_type": "naver_news",
+      "keyword": "공무원",
+      "item_type": "main",
+      "published_at": "",
+      "sent_at": "2026-06-26T11:03:01.946861+09:00"
+    },
+    {
+      "link": "https://www.newsis.com/view/NISX20260625_0003682995",
+      "title": "근로기준법 밖 공직사회…광주 소방관 사망 사건이 드러낸 허점",
+      "source": "뉴시스",
+      "source_type": "naver_news",
+      "keyword": "공무원",
+      "item_type": "main",
+      "published_at": "",
+      "sent_at": "2026-06-26T11:03:01.946861+09:00"
+    },
+    {
+      "link": "https://www.newsis.com/view/NISX20260625_0003683751",
+      "title": "'충북교육청 납품 비리' 김병우 캠프 전 관계자, 징역 4년",
+      "source": "뉴시스",
+      "source_type": "naver_news",
+      "keyword": "공무원",
+      "item_type": "main",
+      "published_at": "",
+      "sent_at": "2026-06-26T11:03:01.946861+09:00"
+    },
+    {
+      "link": "https://www.newsis.com/view/NISX20260625_0003684049",
+      "title": "재판 앞두고 또 시청서 공무집행방해, 60대女 현행범 체포",
+      "source": "뉴시스",
+      "source_type": "naver_news",
+      "keyword": "공무원",
+      "item_type": "main",
+      "published_at": "",
+      "sent_at": "2026-06-26T11:03:01.946861+09:00"
+    },
+    {
+      "link": "https://www.newsis.com/view/NISI20260625_0002170289",
+      "title": "대전소방, 새내기 소방관 27명 임명",
+      "source": "뉴시스",
+      "source_type": "naver_news",
+      "keyword": "공무원",
+      "item_type": "main",
+      "published_at": "",
+      "sent_at": "2026-06-26T11:03:01.946861+09:00"
+    },
+    {
+      "link": "https://www.newsis.com/view/NISX20260626_0003684734",
+      "title": "연수구, 수질오염사고 대비 합동 방제 훈련 실시",
+      "source": "뉴시스",
+      "source_type": "naver_news",
+      "keyword": "공무원",
+      "item_type": "main",
+      "published_at": "",
+      "sent_at": "2026-06-26T11:03:01.946861+09:00"
+    },
+    {
+      "link": "https://www.newsis.com/view/NISX20260625_0003684098",
+      "title": "\"박물관 조경공사비 안준다\"…사기 피소 유희태 완주군수",
+      "source": "뉴시스",
+      "source_type": "naver_news",
+      "keyword": "공무원",
+      "item_type": "main",
+      "published_at": "",
+      "sent_at": "2026-06-26T11:03:01.946861+09:00"
+    },
+    {
+      "link": "https://www.newsis.com/view/NISX20260625_0003683849",
+      "title": "기획예산처 간 경남도, 내년도 국비 11.7조 확보 총력전",
+      "source": "뉴시스",
+      "source_type": "naver_news",
+      "keyword": "공무원",
+      "item_type": "main",
+      "published_at": "",
+      "sent_at": "2026-06-26T11:03:01.946861+09:00"
+    },
+    {
+      "link": "https://www.newsis.com/view/NISX20260625_0003684025",
+      "title": "인천시교육청, '건물 누수 점검' 현장 컨설팅…학교 60곳",
+      "source": "뉴시스",
+      "source_type": "naver_news",
+      "keyword": "공무원",
+      "item_type": "main",
+      "published_at": "",
+      "sent_at": "2026-06-26T11:03:01.946861+09:00"
+    },
+    {
+      "link": "https://www.newsis.com/view/NISX20260625_0003683381",
+      "title": "한성숙, 종로구 카페 불법 증축 논란에 \"철거 늦어져 죄송\"",
+      "source": "뉴시스",
+      "source_type": "naver_news",
+      "keyword": "공무원",
+      "item_type": "main",
+      "published_at": "",
+      "sent_at": "2026-06-26T11:03:01.946861+09:00"
+    },
+    {
+      "link": "https://www.newsis.com/view/NISX20260625_0003684123",
+      "title": "[오늘의 주요일정]경기남부(6월26일 금요일)",
+      "source": "뉴시스",
+      "source_type": "naver_news",
+      "keyword": "공무원",
+      "item_type": "main",
+      "published_at": "",
+      "sent_at": "2026-06-26T11:03:01.946861+09:00"
+    },
+    {
+      "link": "https://www.newsis.com/view/NISX20260626_0003684532",
+      "title": "종료 D-9 삼성 '감사 페스티벌'…매장 방문객 75%·삼성닷컴 200%↑",
+      "source": "뉴시스",
+      "source_type": "naver_news",
+      "keyword": "공무원",
+      "item_type": "main",
+      "published_at": "",
+      "sent_at": "2026-06-26T11:03:01.946861+09:00"
+    },
+    {
+      "link": "https://www.newsis.com/view/NISX20260625_0003682987",
+      "title": "합수본, '14곳서 부족' 송파구 선관위 직원 조사…인력 증원 검토(종합...",
+      "source": "뉴시스",
+      "source_type": "naver_news",
+      "keyword": "공무원",
+      "item_type": "main",
+      "published_at": "",
+      "sent_at": "2026-06-26T11:03:01.946861+09:00"
+    },
+    {
+      "link": "https://www.newsis.com/view/NISX20260625_0003683648",
+      "title": "\"명령어 쳤더니 앱 뚝딱\"…'말로 짜는 코딩' 열풍",
+      "source": "뉴시스",
+      "source_type": "naver_news",
+      "keyword": "공무원",
+      "item_type": "main",
+      "published_at": "",
+      "sent_at": "2026-06-26T11:03:01.946861+09:00"
+    },
+    {
+      "link": "https://www.newsis.com/view/NISX20260626_0003684615",
+      "title": "수업중 계좌 공개…청주 사립고 교사 '본인책' 영리 논란",
+      "source": "뉴시스",
+      "source_type": "naver_news",
+      "keyword": "공무원",
+      "item_type": "main",
+      "published_at": "",
+      "sent_at": "2026-06-26T11:03:01.946861+09:00"
+    },
+    {
+      "link": "https://www.newsis.com/view/NISX20260625_0003683232",
+      "title": "한성숙 총리 후보자 \"과감한 AI 대전환 추진해 성과로 보답할 것\" [뉴시...",
+      "source": "뉴시스",
+      "source_type": "naver_news",
+      "keyword": "공무원",
+      "item_type": "main",
+      "published_at": "",
+      "sent_at": "2026-06-26T11:03:01.946861+09:00"
+    },
+    {
+      "link": "https://www.newsis.com/view/NISX20260625_0003683201",
+      "title": "6·25 당시 김포서 경찰이 주민 학살…法 \"국가, 총 29억 배상\"",
+      "source": "뉴시스",
+      "source_type": "naver_news",
+      "keyword": "공무원",
+      "item_type": "main",
+      "published_at": "",
+      "sent_at": "2026-06-26T11:03:01.946861+09:00"
+    },
+    {
+      "link": "https://www.newsis.com/view/NISX20260626_0003684543",
+      "title": "전국 국·공립대 총장단 \"체질 개선으로 고등교육 혁신 선도\"",
+      "source": "뉴시스",
+      "source_type": "naver_news",
+      "keyword": "공무원",
+      "item_type": "main",
+      "published_at": "",
+      "sent_at": "2026-06-26T11:03:01.946861+09:00"
+    },
+    {
+      "link": "https://www.newsis.com/view/NISX20260625_0003683363",
+      "title": "충북대 차기 총장 선거 5파전…내달 10일 투표",
+      "source": "뉴시스",
+      "source_type": "naver_news",
+      "keyword": "공무원",
+      "item_type": "main",
+      "published_at": "",
+      "sent_at": "2026-06-26T11:03:01.946861+09:00"
+    },
+    {
+      "link": "https://www.newsis.com/view/NISX20260626_0003684509",
+      "title": "[원주소식]20년 이어온 원주매지농악 전승활동 공개 등",
+      "source": "뉴시스",
+      "source_type": "naver_news",
+      "keyword": "공무원",
+      "item_type": "main",
+      "published_at": "",
+      "sent_at": "2026-06-26T11:03:01.946861+09:00"
+    },
+    {
+      "link": "http://www.lec.co.kr/news/articleView.html?idxno=752295",
+      "title": "2026년 지방직 9급 공무원시험 '행정학개론' 총평(이준모)",
+      "source": "법률저널",
+      "source_type": "naver_news",
+      "keyword": "공무원",
+      "item_type": "main",
+      "published_at": "",
+      "sent_at": "2026-06-26T11:03:01.946861+09:00"
+    },
+    {
+      "link": "http://www.lec.co.kr/news/articleView.html?idxno=752294",
+      "title": "정부, 장애인 공무원 근무 여선 개선 위한 이행과제 논의",
+      "source": "법률저널",
+      "source_type": "naver_news",
+      "keyword": "공무원",
+      "item_type": "main",
+      "published_at": "",
+      "sent_at": "2026-06-26T11:03:01.946861+09:00"
+    },
+    {
+      "link": "http://www.lec.co.kr/news/articleView.html?idxno=752290",
+      "title": "2026년 지방직 9급 공무원시험 '국어' 총평(이유진)",
+      "source": "법률저널",
+      "source_type": "naver_news",
+      "keyword": "공무원",
+      "item_type": "main",
+      "published_at": "",
+      "sent_at": "2026-06-26T11:03:01.946861+09:00"
+    },
+    {
+      "link": "http://www.lec.co.kr/news/articleView.html?idxno=752289",
+      "title": "소방청, \"공직기강 확립\" 전국 소방지휘관 긴급회의 개최",
+      "source": "법률저널",
+      "source_type": "naver_news",
+      "keyword": "공무원",
+      "item_type": "main",
+      "published_at": "",
+      "sent_at": "2026-06-26T11:03:01.946861+09:00"
+    },
+    {
+      "link": "http://www.lec.co.kr/news/articleView.html?idxno=752298",
+      "title": "박준연 미국 변호사의 논 세퀴터(85)-AI는 변호사를 대체할까, 아니면 더...",
+      "source": "법률저널",
+      "source_type": "naver_news",
+      "keyword": "공무원",
+      "item_type": "main",
+      "published_at": "",
+      "sent_at": "2026-06-26T11:03:01.946861+09:00"
+    },
+    {
+      "link": "https://www.seoul.co.kr/news/society/2026/06/25/20260625500096?wlog_tag3=naver",
+      "title": "‘뇌물 받고 수의계약 몰아주기’ 구복규 화순군수, 검찰 송치",
+      "source": "서울신문",
+      "source_type": "naver_news",
+      "keyword": "공무원",
+      "item_type": "main",
+      "published_at": "",
+      "sent_at": "2026-06-26T11:03:01.946861+09:00"
+    },
+    {
+      "link": "https://www.seoul.co.kr/news/society/2026/06/25/20260625500246?wlog_tag3=naver",
+      "title": "광주시교육청, 6급 이하 정기인사 단행",
+      "source": "서울신문",
+      "source_type": "naver_news",
+      "keyword": "공무원",
+      "item_type": "main",
+      "published_at": "",
+      "sent_at": "2026-06-26T11:03:01.946861+09:00"
+    },
+    {
+      "link": "https://www.seoul.co.kr/news/publicnews/local_govern/2026/06/26/20260626500028?wlog_tag3=naver",
+      "title": "“혼자 참지 마세요”…수원시, 모든 공직자 대상 인권침해 실태조사",
+      "source": "서울신문",
+      "source_type": "naver_news",
+      "keyword": "공무원",
+      "item_type": "main",
+      "published_at": "",
+      "sent_at": "2026-06-26T11:03:01.946861+09:00"
+    },
+    {
+      "link": "https://www.seoul.co.kr/news/plan/2026/06/26/20260626022001?wlog_tag3=naver",
+      "title": "“서대문 주민과 ‘운기조식’ 큰 힘… 우리 모두의 구청장 될 것” [민...",
+      "source": "서울신문",
+      "source_type": "naver_news",
+      "keyword": "공무원",
+      "item_type": "main",
+      "published_at": "",
+      "sent_at": "2026-06-26T11:03:01.946861+09:00"
+    },
+    {
+      "link": "https://www.seoul.co.kr/news/publicnews/local_govern/2026/06/26/20260626500081?wlog_tag3=naver",
+      "title": "‘압도적 AI 행정 인프라’ 화성시, 행안부 ‘AI 해커톤’ 우수상 수상",
+      "source": "서울신문",
+      "source_type": "naver_news",
+      "keyword": "공무원",
+      "item_type": "main",
+      "published_at": "",
+      "sent_at": "2026-06-26T11:03:01.946861+09:00"
+    },
+    {
+      "link": "https://www.seoul.co.kr/news/society/2026/06/25/20260625500145?wlog_tag3=naver",
+      "title": "울주군의회, 임기 만료 1년 내 공무국외출장 제한 추진",
+      "source": "서울신문",
+      "source_type": "naver_news",
+      "keyword": "공무원",
+      "item_type": "main",
+      "published_at": "",
+      "sent_at": "2026-06-26T11:03:01.946861+09:00"
+    },
+    {
+      "link": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/06/25/20260625500150?wlog_tag3=naver",
+      "title": "이은주 경기도의원, 법과 제도는 마련됐다… 이제 구리교육지원청은 실...",
+      "source": "서울신문",
+      "source_type": "naver_news",
+      "keyword": "공무원",
+      "item_type": "main",
+      "published_at": "",
+      "sent_at": "2026-06-26T11:03:01.946861+09:00"
+    },
+    {
+      "link": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/06/25/20260625500195?wlog_tag3=naver",
+      "title": "유호준 경기도의원 발의 ‘여성청소년 월경용품 지원 조례 개정안’ 본...",
+      "source": "서울신문",
+      "source_type": "naver_news",
+      "keyword": "공무원",
+      "item_type": "main",
+      "published_at": "",
+      "sent_at": "2026-06-26T11:03:01.946861+09:00"
+    },
+    {
+      "link": "https://www.seoul.co.kr/news/publicnews/local_govern/smc_movement/2026/06/25/20260625500098?wlog_tag3=naver",
+      "title": "전병주 서울시의원 “공익제보자 보호 없인 정의 없다”… 8년 의정 성...",
+      "source": "서울신문",
+      "source_type": "naver_news",
+      "keyword": "공무원",
+      "item_type": "main",
+      "published_at": "",
+      "sent_at": "2026-06-26T11:03:01.946861+09:00"
+    },
+    {
+      "link": "https://www.yna.co.kr/view/AKR20260625075700062?input=1195m",
+      "title": "환경미화원에 '계엄령 놀이' 양양군 공무원, 항소심서 선처 호소",
+      "source": "연합뉴스",
+      "source_type": "naver_news",
+      "keyword": "공무원",
+      "item_type": "main",
+      "published_at": "",
+      "sent_at": "2026-06-26T11:03:01.946861+09:00"
+    },
+    {
+      "link": "https://www.yna.co.kr/view/AKR20260625141500084?input=1195m",
+      "title": "태국, 뇌물받고 최소 3천명 공무원시험 결과 조작 일당 적발",
+      "source": "연합뉴스",
+      "source_type": "naver_news",
+      "keyword": "공무원",
+      "item_type": "main",
+      "published_at": "",
+      "sent_at": "2026-06-26T11:03:01.946861+09:00"
+    },
+    {
+      "link": "https://www.yna.co.kr/view/AKR20260625143300064?input=1195m",
+      "title": "\"낼 돈 없어\" 세금 체납 담당 공무원 폭행한 60대 현행범 체포",
+      "source": "연합뉴스",
+      "source_type": "naver_news",
+      "keyword": "공무원",
+      "item_type": "main",
+      "published_at": "",
+      "sent_at": "2026-06-26T11:03:01.946861+09:00"
+    },
+    {
+      "link": "https://www.yna.co.kr/view/AKR20260625085900064?input=1195m",
+      "title": "퇴직 앞두고 장학금 300만원 기부한 음성군 공무원",
+      "source": "연합뉴스",
+      "source_type": "naver_news",
+      "keyword": "공무원",
+      "item_type": "main",
+      "published_at": "",
+      "sent_at": "2026-06-26T11:03:01.946861+09:00"
+    },
+    {
+      "link": "https://www.yna.co.kr/view/AKR20260625146100060?input=1195m",
+      "title": "법원 \"승진 약속 안 지킨 파주시장, 퇴직 직원에게 배상해야\"",
+      "source": "연합뉴스",
+      "source_type": "naver_news",
+      "keyword": "공무원",
+      "item_type": "main",
+      "published_at": "",
+      "sent_at": "2026-06-26T11:03:01.946861+09:00"
+    },
+    {
+      "link": "https://www.yna.co.kr/view/AKR20260625073900004?input=1195m",
+      "title": "'이스타항공 채용비리' 이상직 前의원 무죄확정…'위력행사' 불인정",
+      "source": "연합뉴스",
+      "source_type": "naver_news",
+      "keyword": "공무원",
+      "item_type": "main",
+      "published_at": "",
+      "sent_at": "2026-06-26T11:03:01.946861+09:00"
+    },
+    {
+      "link": "https://www.yna.co.kr/view/AKR20260625122300064?input=1195m",
+      "title": "'교육감 캠프 영향력' 이용해 납품 알선…4년 만에 전원 유죄",
+      "source": "연합뉴스",
+      "source_type": "naver_news",
+      "keyword": "공무원",
+      "item_type": "main",
+      "published_at": "",
+      "sent_at": "2026-06-26T11:03:01.946861+09:00"
+    },
+    {
+      "link": "https://www.yna.co.kr/view/AKR20260625072400004?input=1195m",
+      "title": "'첫 유전자치료제 인보사 허위자료' 코오롱생명과학 임원들 무죄확정",
+      "source": "연합뉴스",
+      "source_type": "naver_news",
+      "keyword": "공무원",
+      "item_type": "main",
+      "published_at": "",
+      "sent_at": "2026-06-26T11:03:01.946861+09:00"
+    },
+    {
+      "link": "https://www.yna.co.kr/view/AKR20260625073800063?input=1195m",
+      "title": "'부당업무·갑질 차단'…세종시의회 '상호존중 가이드라인' 도입",
+      "source": "연합뉴스",
+      "source_type": "naver_news",
+      "keyword": "공무원",
+      "item_type": "main",
+      "published_at": "",
+      "sent_at": "2026-06-26T11:03:01.946861+09:00"
+    },
+    {
+      "link": "https://www.yna.co.kr/view/AKR20260625097900004?input=1195m",
+      "title": "[게시판] '같이함께', 수용자 자녀·범죄 피해자 등에 장학금",
+      "source": "연합뉴스",
+      "source_type": "naver_news",
+      "keyword": "공무원",
+      "item_type": "main",
+      "published_at": "",
+      "sent_at": "2026-06-26T11:03:01.946861+09:00"
+    },
+    {
+      "link": "https://www.yna.co.kr/view/AKR20260625159300004?input=1195m",
+      "title": "김건희 '매관매직' 1심 선고…특검, 징역 7년6개월 구형",
+      "source": "연합뉴스",
+      "source_type": "naver_news",
+      "keyword": "공무원",
+      "item_type": "main",
+      "published_at": "",
+      "sent_at": "2026-06-26T11:03:01.946861+09:00"
+    },
+    {
+      "link": "https://www.yna.co.kr/view/AKR20260625089751001?input=1195m",
+      "title": "\"권력도취 마귀\"·\"둘도없는 적임자\"…한성숙 청문회 여야 격돌(종합)",
+      "source": "연합뉴스",
+      "source_type": "naver_news",
+      "keyword": "공무원",
+      "item_type": "main",
+      "published_at": "",
+      "sent_at": "2026-06-26T11:03:01.946861+09:00"
+    },
+    {
+      "link": "https://www.yna.co.kr/view/AKR20260626028600003?input=1195m",
+      "title": "삼성전자 감사페스티벌 기간 전국 삼성스토어 방문객 75% 증가",
+      "source": "연합뉴스",
+      "source_type": "naver_news",
+      "keyword": "공무원",
+      "item_type": "main",
+      "published_at": "",
+      "sent_at": "2026-06-26T11:03:01.946861+09:00"
+    },
+    {
+      "link": "https://www.yna.co.kr/view/AKR20260625133100064?input=1195m",
+      "title": "음주의심 신고에도 '쿨쿨'…충북경찰, 재감찰 끝 1명 징계",
+      "source": "연합뉴스",
+      "source_type": "naver_news",
+      "keyword": "공무원",
+      "item_type": "main",
+      "published_at": "",
+      "sent_at": "2026-06-26T11:03:01.946861+09:00"
+    },
+    {
+      "link": "https://www.yna.co.kr/view/AKR20260626049500004?input=1195m",
+      "title": "투표지 합수본, 선관위 직원 2명 조사…'전한길 보관상자' 분석",
+      "source": "연합뉴스",
+      "source_type": "naver_news",
+      "keyword": "공무원",
+      "item_type": "main",
+      "published_at": "",
+      "sent_at": "2026-06-26T11:03:01.946861+09:00"
+    },
+    {
+      "link": "https://www.yna.co.kr/view/AKR20260625115600504?input=1195m",
+      "title": "인요한 적십자사 회장 인준·취임, 일러야 내달말 예상",
+      "source": "연합뉴스",
+      "source_type": "naver_news",
+      "keyword": "공무원",
+      "item_type": "main",
+      "published_at": "",
+      "sent_at": "2026-06-26T11:03:01.946861+09:00"
+    },
+    {
+      "link": "https://www.yna.co.kr/view/AKR20260625139200051?input=1195m",
+      "title": "부산시, 제3동아호 침몰사고 수습에 만전…\"행정력 총동원\"",
+      "source": "연합뉴스",
+      "source_type": "naver_news",
+      "keyword": "공무원",
+      "item_type": "main",
+      "published_at": "",
+      "sent_at": "2026-06-26T11:03:01.946861+09:00"
+    },
+    {
+      "link": "https://www.yna.co.kr/view/AKR20260625104100063?input=1195m",
+      "title": "한화에어로 사고 추모 유성구 내 합동분향소 운영 종료",
+      "source": "연합뉴스",
+      "source_type": "naver_news",
+      "keyword": "공무원",
+      "item_type": "main",
+      "published_at": "",
+      "sent_at": "2026-06-26T11:03:01.946861+09:00"
+    },
+    {
+      "link": "https://www.yna.co.kr/view/AKR20260626039800062?input=1195m",
+      "title": "삼척 원덕에 지하수저류댐 추진…하루 2400㎥ 용수 확보",
+      "source": "연합뉴스",
+      "source_type": "naver_news",
+      "keyword": "공무원",
+      "item_type": "main",
+      "published_at": "",
+      "sent_at": "2026-06-26T11:03:01.946861+09:00"
+    },
+    {
+      "link": "https://www.yna.co.kr/view/AKR20260626011200011?input=1195m",
+      "title": "[전국 주요 신문 톱뉴스](26일 조간)",
+      "source": "연합뉴스",
+      "source_type": "naver_news",
+      "keyword": "공무원",
+      "item_type": "main",
+      "published_at": "",
+      "sent_at": "2026-06-26T11:03:01.946861+09:00"
+    },
+    {
+      "link": "https://www.yna.co.kr/view/AKR20260625153000085?input=1195m",
+      "title": "맨체스터 총리실?…'북부의 왕' 버넘, 파격 지방분권 구상",
+      "source": "연합뉴스",
+      "source_type": "naver_news",
+      "keyword": "공무원",
+      "item_type": "main",
+      "published_at": "",
+      "sent_at": "2026-06-26T11:03:01.946861+09:00"
+    },
+    {
+      "link": "https://www.yna.co.kr/view/AKR20260625150900083?input=1195m",
+      "title": "홍콩 당국자, 2019년 민주화 시위자에 \"반성하면 불기소 고려\"",
+      "source": "연합뉴스",
+      "source_type": "naver_news",
+      "keyword": "공무원",
+      "item_type": "main",
+      "published_at": "",
+      "sent_at": "2026-06-26T11:03:01.946861+09:00"
+    },
+    {
+      "link": "https://www.yna.co.kr/view/AKR20260625137100062?input=1195m",
+      "title": "강원도지사직 인수위, 소방 현안 청취…근무 환경 개선 논의",
+      "source": "연합뉴스",
+      "source_type": "naver_news",
+      "keyword": "공무원",
+      "item_type": "main",
+      "published_at": "",
+      "sent_at": "2026-06-26T11:03:01.946861+09:00"
+    },
+    {
+      "link": "https://www.yna.co.kr/view/AKR20260625091100009?input=1195m",
+      "title": "대만, 中 대만국립아동합창단 명칭 '중국대만' 일방변경에 반발",
+      "source": "연합뉴스",
+      "source_type": "naver_news",
+      "keyword": "공무원",
+      "item_type": "main",
+      "published_at": "",
+      "sent_at": "2026-06-26T11:03:01.946861+09:00"
+    },
+    {
+      "link": "https://www.yna.co.kr/view/AKR20260624155500062?input=1195m",
+      "title": "[인터뷰] 우상호 \"평화 정착 없이는 경제 모멘텀 만들 수 없어\"",
+      "source": "연합뉴스",
+      "source_type": "naver_news",
+      "keyword": "공무원",
+      "item_type": "main",
+      "published_at": "",
+      "sent_at": "2026-06-26T11:03:01.946861+09:00"
+    },
+    {
+      "link": "https://www.yna.co.kr/view/AKR20260624165400054?input=1195m",
+      "title": "[염전노동 실태] ② \"잊을 만하면 또\"…적막감 감도는 소금밭",
+      "source": "연합뉴스",
+      "source_type": "naver_news",
+      "keyword": "공무원",
+      "item_type": "main",
+      "published_at": "",
+      "sent_at": "2026-06-26T11:03:01.946861+09:00"
+    },
+    {
+      "link": "http://www.fnnews.com/news/202606241215214928",
+      "title": "[단독] '사전투표 안했는데 기투표 처리됐다'...선관위 \"실수 가능\"",
+      "source": "파이낸셜뉴스",
+      "source_type": "naver_news",
+      "keyword": "공무원",
+      "item_type": "main",
+      "published_at": "",
+      "sent_at": "2026-06-26T11:03:01.946861+09:00"
+    },
+    {
+      "link": "http://www.fnnews.com/news/202606261016079104",
+      "title": "\"시장님이 승진 채용 해준대서 사표냈는데\"…법원 판단은 \"퇴직 직원에...",
+      "source": "파이낸셜뉴스",
+      "source_type": "naver_news",
+      "keyword": "공무원",
+      "item_type": "main",
+      "published_at": "",
+      "sent_at": "2026-06-26T11:03:01.946861+09:00"
+    },
+    {
+      "link": "http://www.fnnews.com/news/202606252105539322",
+      "title": "\"'개표소 집회'서 침뱉은 여성, 뺨 때린 경찰?\"…\"독직폭행\" vs \"침 맞아...",
+      "source": "파이낸셜뉴스",
+      "source_type": "naver_news",
+      "keyword": "공무원",
+      "item_type": "main",
+      "published_at": "",
+      "sent_at": "2026-06-26T11:03:01.946861+09:00"
+    },
+    {
+      "link": "http://www.fnnews.com/news/202606251145329199",
+      "title": "'인보사 허위자료' 코오롱생명과학 임원들 무죄확정...대법 \"법리 오해...",
+      "source": "파이낸셜뉴스",
+      "source_type": "naver_news",
+      "keyword": "공무원",
+      "item_type": "main",
+      "published_at": "",
+      "sent_at": "2026-06-26T11:03:01.946861+09:00"
+    },
+    {
+      "link": "http://www.fnnews.com/news/202606251417341611",
+      "title": "국토안전관리원, 건설공사 전주기 지하안전관리 설명회 개최",
+      "source": "파이낸셜뉴스",
+      "source_type": "naver_news",
+      "keyword": "공무원",
+      "item_type": "main",
+      "published_at": "",
+      "sent_at": "2026-06-26T11:03:01.946861+09:00"
+    },
+    {
+      "link": "http://www.fnnews.com/news/202606251525023014",
+      "title": "지자체 돈 없으면 첨단 인재 못 키우나… 대학들 정부 매칭펀드 규제 성...",
+      "source": "파이낸셜뉴스",
+      "source_type": "naver_news",
+      "keyword": "공무원",
+      "item_type": "main",
+      "published_at": "",
+      "sent_at": "2026-06-26T11:03:01.946861+09:00"
+    },
+    {
+      "link": "http://www.fnnews.com/news/202606251805216158",
+      "title": "\"북극항로로 '해양수도 부산' 완성… 수도권 일극체제 깬다\" [fn이 만난...",
+      "source": "파이낸셜뉴스",
+      "source_type": "naver_news",
+      "keyword": "공무원",
+      "item_type": "main",
+      "published_at": "",
+      "sent_at": "2026-06-26T11:03:01.946861+09:00"
+    },
+    {
+      "link": "http://www.fnnews.com/news/202606251825498408",
+      "title": "사전투표 안했는데 기투표 처리?… 선관위 \"실수 가능\"",
+      "source": "파이낸셜뉴스",
+      "source_type": "naver_news",
+      "keyword": "공무원",
+      "item_type": "main",
+      "published_at": "",
+      "sent_at": "2026-06-26T11:03:01.946861+09:00"
+    },
+    {
+      "link": "http://www.fnnews.com/news/202606242142387325",
+      "title": "\"'테무경찰' 조롱, 끝까지 간다\" 경찰 아내의 고소장…'올공'이 쏘아올...",
+      "source": "파이낸셜뉴스",
+      "source_type": "naver_news",
+      "keyword": "공무원",
+      "item_type": "main",
+      "published_at": "",
+      "sent_at": "2026-06-26T11:03:01.946861+09:00"
+    },
+    {
+      "link": "https://www.gosiweek.com/article/1065576476290122",
+      "title": "올해 국가직 9급부터 공무원 채용 마약류 검사 적용…계리직·국회 8급은...",
+      "source": "피앤피뉴스",
+      "source_type": "naver_news",
+      "keyword": "공무원",
+      "item_type": "main",
+      "published_at": "",
+      "sent_at": "2026-06-26T11:03:01.946861+09:00"
+    },
+    {
+      "link": "https://www.gosiweek.com/article/1065582537360485",
+      "title": "장애인 공무원 희망 보직 확대한다…인사처, 근무환경 개선 추진",
+      "source": "피앤피뉴스",
+      "source_type": "naver_news",
+      "keyword": "공무원",
+      "item_type": "main",
+      "published_at": "",
+      "sent_at": "2026-06-26T11:03:01.946861+09:00"
+    },
+    {
+      "link": "https://www.gosiweek.com/article/1065600377542943",
+      "title": "교육부, 2027학년도 초등 신규교사 2700~2900명 선발…중등은 최대 5100명",
+      "source": "피앤피뉴스",
+      "source_type": "naver_news",
+      "keyword": "공무원",
+      "item_type": "main",
+      "published_at": "",
+      "sent_at": "2026-06-26T11:03:01.946861+09:00"
+    },
+    {
+      "link": "http://fpn119.co.kr/252975",
+      "title": "대전동부소방서, 신임 소방공무원 임용식",
+      "source": "FPN",
+      "source_type": "naver_news",
+      "keyword": "공무원",
+      "item_type": "main",
+      "published_at": "",
+      "sent_at": "2026-06-26T11:03:01.946861+09:00"
+    },
+    {
+      "link": "http://fpn119.co.kr/253008",
+      "title": "인천119특수대응단, 소방공무원 직장협의회",
+      "source": "FPN",
+      "source_type": "naver_news",
+      "keyword": "공무원",
+      "item_type": "main",
+      "published_at": "",
+      "sent_at": "2026-06-26T11:03:01.946861+09:00"
+    },
+    {
+      "link": "http://fpn119.co.kr/252973",
+      "title": "남해소방서, 2026년 상반기 소방공무원 정년퇴임식",
+      "source": "FPN",
+      "source_type": "naver_news",
+      "keyword": "공무원",
+      "item_type": "main",
+      "published_at": "",
+      "sent_at": "2026-06-26T11:03:01.946861+09:00"
+    },
+    {
+      "link": "http://fpn119.co.kr/252993",
+      "title": "진주소방서, 2026년 상반기 소방공무원 정년 퇴임식",
+      "source": "FPN",
+      "source_type": "naver_news",
+      "keyword": "공무원",
+      "item_type": "main",
+      "published_at": "",
+      "sent_at": "2026-06-26T11:03:01.946861+09:00"
+    },
+    {
+      "link": "http://fpn119.co.kr/253030",
+      "title": "인천서부소방서, 신현 의소대장 이ㆍ취임식",
+      "source": "FPN",
+      "source_type": "naver_news",
+      "keyword": "공무원",
+      "item_type": "main",
+      "published_at": "",
+      "sent_at": "2026-06-26T11:03:01.946861+09:00"
+    },
+    {
+      "link": "http://fpn119.co.kr/253032",
+      "title": "관악소방서, 공무상 재해 담당자 대상 현장체험 운영",
+      "source": "FPN",
+      "source_type": "naver_news",
+      "keyword": "공무원",
+      "item_type": "main",
+      "published_at": "",
+      "sent_at": "2026-06-26T11:03:01.946861+09:00"
+    },
+    {
+      "link": "http://fpn119.co.kr/252968",
+      "title": "양주소방서, 서울우유 양주공장 화재 대응 현지적응훈련",
+      "source": "FPN",
+      "source_type": "naver_news",
+      "keyword": "공무원",
+      "item_type": "main",
+      "published_at": "",
+      "sent_at": "2026-06-26T11:03:01.946861+09:00"
+    },
+    {
+      "link": "http://fpn119.co.kr/252998",
+      "title": "삼척소방서, 2026년 시민수상구조대 발대식",
+      "source": "FPN",
+      "source_type": "naver_news",
+      "keyword": "공무원",
+      "item_type": "main",
+      "published_at": "",
+      "sent_at": "2026-06-26T11:03:01.946861+09:00"
+    },
+    {
+      "link": "http://fpn119.co.kr/252999",
+      "title": "화천소방서, 탤런트 안병경 씨와 소통 행사 가져",
+      "source": "FPN",
+      "source_type": "naver_news",
+      "keyword": "공무원",
+      "item_type": "main",
+      "published_at": "",
+      "sent_at": "2026-06-26T11:03:01.946861+09:00"
+    },
+    {
+      "link": "http://fpn119.co.kr/252992",
+      "title": "계양소방서, 여름철 풍수해 피해 우려지역 현장 예찰",
+      "source": "FPN",
+      "source_type": "naver_news",
+      "keyword": "공무원",
+      "item_type": "main",
+      "published_at": "",
+      "sent_at": "2026-06-26T11:03:01.946861+09:00"
+    },
+    {
+      "link": "http://fpn119.co.kr/252988",
+      "title": "수성소방서 황윤구 소방위, ‘KBS119상’ 본상 수상 쾌거",
+      "source": "FPN",
+      "source_type": "naver_news",
+      "keyword": "공무원",
+      "item_type": "main",
+      "published_at": "",
+      "sent_at": "2026-06-26T11:03:01.946861+09:00"
+    },
+    {
+      "link": "http://fpn119.co.kr/253003",
+      "title": "미추홀소방서, 상반기 소방업무추진 유공 표창 수여식ㆍ차담회",
+      "source": "FPN",
+      "source_type": "naver_news",
+      "keyword": "공무원",
+      "item_type": "main",
+      "published_at": "",
+      "sent_at": "2026-06-26T11:03:01.946861+09:00"
+    },
+    {
+      "link": "http://fpn119.co.kr/252960",
+      "title": "양평소방서, 드론 운용력 제고 위한 업무협약식",
+      "source": "FPN",
+      "source_type": "naver_news",
+      "keyword": "공무원",
+      "item_type": "main",
+      "published_at": "",
+      "sent_at": "2026-06-26T11:03:01.946861+09:00"
+    },
+    {
+      "link": "http://fpn119.co.kr/252969",
+      "title": "양주소방서, 2026년 상반기 감염방지위원회",
+      "source": "FPN",
+      "source_type": "naver_news",
+      "keyword": "공무원",
+      "item_type": "main",
+      "published_at": "",
+      "sent_at": "2026-06-26T11:03:01.946861+09:00"
+    },
+    {
+      "link": "http://fpn119.co.kr/252962",
+      "title": "대구동부소방서, 긴급구조통제단 불시 가동훈련",
+      "source": "FPN",
+      "source_type": "naver_news",
+      "keyword": "공무원",
+      "item_type": "main",
+      "published_at": "",
+      "sent_at": "2026-06-26T11:03:01.946861+09:00"
+    },
+    {
+      "link": "http://fpn119.co.kr/253024",
+      "title": "춘천소방서, 강원도지사직 인수위 접견… 주요 소방정책 공유",
+      "source": "FPN",
+      "source_type": "naver_news",
+      "keyword": "공무원",
+      "item_type": "main",
+      "published_at": "",
+      "sent_at": "2026-06-26T11:03:01.946861+09:00"
+    },
+    {
+      "link": "http://fpn119.co.kr/253004",
+      "title": "송도소방서, 어린이 소방서 견학 프로그램 운영",
+      "source": "FPN",
+      "source_type": "naver_news",
+      "keyword": "공무원",
+      "item_type": "main",
+      "published_at": "",
+      "sent_at": "2026-06-26T11:03:01.946861+09:00"
+    },
+    {
+      "link": "http://fpn119.co.kr/252979",
+      "title": "“편하게 오빠라고 불러”… 광주 소방관 죽음 뒤 ‘직장 내 갑질’ 있...",
+      "source": "FPN",
+      "source_type": "naver_news",
+      "keyword": "공무원",
+      "item_type": "main",
+      "published_at": "",
+      "sent_at": "2026-06-26T11:03:01.946861+09:00"
+    },
+    {
+      "link": "http://fpn119.co.kr/253001",
+      "title": "종로소방서, 월드컵 남아공전 거리응원 행사 안전관리… 사고 ‘0’",
+      "source": "FPN",
+      "source_type": "naver_news",
+      "keyword": "공무원",
+      "item_type": "main",
+      "published_at": "",
+      "sent_at": "2026-06-26T11:03:01.946861+09:00"
+    },
+    {
+      "link": "https://view.asiae.co.kr/article/2026062518302754298",
+      "title": "\"뇌물 주고 최소 3000명이 점수 조작\"…공무원 시험 부정 적발, 이렇게 ...",
+      "source": "아시아경제",
+      "source_type": "naver_news",
+      "keyword": "공무원",
+      "item_type": "main",
+      "published_at": "",
+      "sent_at": "2026-06-26T11:03:01.946861+09:00"
+    },
+    {
+      "link": "https://view.asiae.co.kr/article/2026062608590018239",
+      "title": "DB손보, 삼풍백화점 사고 후 만든 소방공무원 시상식 24년째 후원",
+      "source": "아시아경제",
+      "source_type": "naver_news",
+      "keyword": "공무원",
+      "item_type": "main",
+      "published_at": "",
+      "sent_at": "2026-06-26T11:03:01.946861+09:00"
+    },
+    {
+      "link": "https://view.asiae.co.kr/article/2026062514471524612",
+      "title": "전남광주통합교육청 '출범 D-6'…일반직 601명 '인사'",
+      "source": "아시아경제",
+      "source_type": "naver_news",
+      "keyword": "공무원",
+      "item_type": "main",
+      "published_at": "",
+      "sent_at": "2026-06-26T11:03:01.946861+09:00"
+    },
+    {
+      "link": "https://view.asiae.co.kr/article/2026062511030290356",
+      "title": "대법, '이스타 채용비리' 이상직 무죄 확정…\"사내 추천, 위력 아니야\"",
+      "source": "아시아경제",
+      "source_type": "naver_news",
+      "keyword": "공무원",
+      "item_type": "main",
+      "published_at": "",
+      "sent_at": "2026-06-26T11:03:01.946861+09:00"
+    },
+    {
+      "link": "https://view.asiae.co.kr/article/2026062607521984164",
+      "title": "김건희 '매관매직' 의혹 오늘 1심 선고…특검 징역 7년 6개월 구형",
+      "source": "아시아경제",
+      "source_type": "naver_news",
+      "keyword": "공무원",
+      "item_type": "main",
+      "published_at": "",
+      "sent_at": "2026-06-26T11:03:01.946861+09:00"
+    },
+    {
+      "link": "https://view.asiae.co.kr/article/2026062608213565522",
+      "title": "삼성전자 '감사 페스티벌' 종료까지 앞으로 9일…소비자 막바지 관심 고...",
+      "source": "아시아경제",
+      "source_type": "naver_news",
+      "keyword": "공무원",
+      "item_type": "main",
+      "published_at": "",
+      "sent_at": "2026-06-26T11:03:01.946861+09:00"
+    },
+    {
+      "link": "https://view.asiae.co.kr/article/2026062514002509422",
+      "title": "'투표용지 사태' 합수본, 송파구 선관위 직원 2명 조사…보고 체계 추적",
+      "source": "아시아경제",
+      "source_type": "naver_news",
+      "keyword": "공무원",
+      "item_type": "main",
+      "published_at": "",
+      "sent_at": "2026-06-26T11:03:01.946861+09:00"
+    },
+    {
+      "link": "https://view.asiae.co.kr/article/2026062608124196879",
+      "title": "수원시, 모든 공직자 대상 인권침해 실태조사",
+      "source": "아시아경제",
+      "source_type": "naver_news",
+      "keyword": "공무원",
+      "item_type": "main",
+      "published_at": "",
+      "sent_at": "2026-06-26T11:03:01.946861+09:00"
+    },
+    {
+      "link": "https://view.asiae.co.kr/article/2026062511321402396",
+      "title": "김동일 보령시장, 민선 6~8기 12년 여정 마무리",
+      "source": "아시아경제",
+      "source_type": "naver_news",
+      "keyword": "공무원",
+      "item_type": "main",
+      "published_at": "",
+      "sent_at": "2026-06-26T11:03:01.946861+09:00"
+    },
+    {
+      "link": "https://view.asiae.co.kr/article/2026062609515133430",
+      "title": "“대학 벽 허문다”… 전국 국·공립대 총장들, 균형발전 혁신 선언",
+      "source": "아시아경제",
+      "source_type": "naver_news",
+      "keyword": "공무원",
+      "item_type": "main",
+      "published_at": "",
+      "sent_at": "2026-06-26T11:03:01.946861+09:00"
+    },
+    {
+      "link": "https://view.asiae.co.kr/article/2026062610020638031",
+      "title": "대구시, 추진중인 재개발·재건축 조합 105곳 전문 컨설팅해준다…단계...",
+      "source": "아시아경제",
+      "source_type": "naver_news",
+      "keyword": "공무원",
+      "item_type": "main",
+      "published_at": "",
+      "sent_at": "2026-06-26T11:03:01.946861+09:00"
+    },
+    {
+      "link": "https://view.asiae.co.kr/article/2026062514005819019",
+      "title": "한성숙, 野 '다주택 마귀' 언급에 \"사람 된 것 같다\"",
+      "source": "아시아경제",
+      "source_type": "naver_news",
+      "keyword": "공무원",
+      "item_type": "main",
+      "published_at": "",
+      "sent_at": "2026-06-26T11:03:01.946861+09:00"
+    },
+    {
+      "link": "https://view.asiae.co.kr/article/2026062610365627383",
+      "title": "류삼영 동작구청장 당선인 \"입시·진로 상담 수용 인원 대폭 늘려야\"",
+      "source": "아시아경제",
+      "source_type": "naver_news",
+      "keyword": "공무원",
+      "item_type": "main",
+      "published_at": "",
+      "sent_at": "2026-06-26T11:03:01.946861+09:00"
     }
   ]
 }
